@@ -1,9 +1,9 @@
 <p align="center">
     <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
-      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0">
+      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0"/>
     </a>
     <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
-      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Blank Logo by Aboling0, CC BY-SA 4.0">
+      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0"/>
     </a>
 </p>
 
@@ -64,6 +64,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - logo-blank.svg
 - square-250px.png
 - square-250px-blank.png
+- square-500px.png
+- square-500px-blank.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -84,6 +86,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### shields-badge
 
+- logo.svg
+- avatar-192px.svg
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ### kettle-rb
 
@@ -91,13 +101,15 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ### omniauth
 
 - square-182px.jpeg (resized to square)
+- tall-158x182px.jpeg
+- tall-316x364px.jpeg
 
 Committed by https://github.com/tomeara to the old GH-Pages site for OmniAuth
 
-https://github.com/galtzo-floss/omniauth/commit/89a03ef889cd9994cdfa8a61d5195d76884510ec
+https://github.com/omniauth/omniauth/89a03ef889cd9994cdfa8a61d5195d76884510ec
 
 Creator and License specifically are unknown,
-but the code of the project and website was and is licensed under MIT.
+but the code of the project and website was, and is still, licensed under MIT.
 
 ### openid
 
@@ -125,8 +137,8 @@ https://creativecommons.org/licenses/by-sa/2.5
 
 ### ruby-openid
 
-- square-124px.png
-- square-192px.png
+- avatar-124px.png
+- avatar-192px.png
 - square-515px.png
 - square-1030px.png
 
@@ -147,6 +159,12 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 
 > Logo Guidelines: The OpenID logo is to be displayed in its entirety on either a solid light or dark background—avoid mid-tones or strongly colored backgrounds. The logo should not be displayed in parts, with color variations, or with other elements superimposed on top of the logo. The stylized I+D symbol should not be modified or distorted.
 
+### shields-io
+
+- square-200px.png
+
+Creator and License are unknown.
+
 ## 🤝 Contributing
 
 If you need some ideas of where to help check [issues][🤝gh-issues], or [PRs][🤝gh-pulls],
@@ -165,13 +183,13 @@ Made with [contributors-img][🖐contrib-rocks].
 
 ## ⭐️ Star History
 
-<a href="https://star-history.com/#omniauth/logos&Date">
+<a href="https://star-history.com/#galtzo-floss/logos&Date">
  <picture>
      <source media="(prefers-color-scheme: dark)"
-             srcset="https://api.star-history.com/svg?repos=omniauth/logos&type=Date&theme=dark"/>
+             srcset="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date&theme=dark"/>
      <source media="(prefers-color-scheme: light)"
-             srcset="https://api.star-history.com/svg?repos=omniauth/logos&type=Date"/>
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=omniauth/logos&type=Date" />
+             srcset="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date"/>
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date" />
  </picture>
 </a>
 
@@ -191,7 +209,7 @@ The rest of the assets, which are in subdirectories, each have a distinct licens
         <a href="https://discord.gg/3qme4XHNKN">
             Galtzo.com
             <picture>
-              <img src="https://github.com/galtzo-floss/logos/raw/main/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0" width="24">
+              <img src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0" width="24">
             </picture>
         </a>, and logos contributors
     </li>
@@ -264,7 +282,7 @@ P.S. Use the gem => Discord for help
 [🤝contributing]: CONTRIBUTING.md
 [🖐contrib-rocks]: https://contrib.rocks
 [🖐contributors]: https://github.com/galtzo-floss/logos/graphs/contributors
-[🖐contributors-img]: https://contrib.rocks/image?repo=omniauth/logos
+[🖐contributors-img]: https://contrib.rocks/image?repo=galtzo-floss/logos
 [🚎contributors-gl]: https://gitlab.com/galtzo-floss/logos/-/graphs/main
 [🪇conduct]: CODE_OF_CONDUCT.md
 [🪇conduct-img]: https://img.shields.io/badge/Contributor_Covenant-2.1-259D6C.svg
