@@ -1,0 +1,5 @@
+require:
+  - rubocop-lts
+
+inherit_gem:
+  rubocop-lts: config/ruby.yml
