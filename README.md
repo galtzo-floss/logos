@@ -664,7 +664,7 @@ The rest of the assets, which are in subdirectories, each have a distinct licens
 ## 🤑 One more thing
 
 Having arrived at the bottom of the page, please endure a final supplication.
-The primary maintainer of this gem, Peter Boling, wants
+The primary maintainer of this project, Peter Boling, wants
 Ruby to be a great place for people to solve problems, big and small.
 Please consider supporting his efforts via the giant yellow link below,
 or one of smaller ones, depending on button size preference.
@@ -673,7 +673,7 @@ or one of smaller ones, depending on button size preference.
 
 [![Liberapay Goal Progress][⛳liberapay-img]][⛳liberapay] [![Sponsor Me on Github][🖇sponsor-img]][🖇sponsor] [![Donate on Polar][🖇polar-img]][🖇polar] [![Donate to my FLOSS or refugee efforts at ko-fi.com][🖇kofi-img]][🖇kofi] [![Donate to my FLOSS or refugee efforts using Patreon][🖇patreon-img]][🖇patreon]
 
-P.S. Use the gem => Discord for help
+P.S. Use the project => Discord for help
 
 [![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite]
 
