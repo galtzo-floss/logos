@@ -7,11 +7,11 @@
     </a>
 </p>
 
-# logos
+# 🪵 logos
 
-[![License: MIT][📄license-img]][📄license-ref] [![📄ilo-declaration-img]][📄ilo-declaration]  [![Contributor Covenant 2.1][🪇conduct-img]][🪇conduct] [![Gitmoji Commits][📌gitmoji-img]][📌gitmoji] [![Follow Me on LinkedIn][💖🖇linkedin-img]][💖🖇linkedin] [![Follow Me on Ruby.Social][💖🐘ruby-mast-img]][💖🐘ruby-mast] [![Follow Me on Bluesky][💖🦋bluesky-img]][💖🦋bluesky] [![Contact BDFL][🚂bdfl-contact-img]][🚂bdfl-contact] [![My technical writing][💖💁🏼‍♂️devto-img]][💖💁🏼‍♂️devto] [![Find Me on WellFound:][💖✌️wellfound-img]][💖✌️wellfound] [![Find Me on CrunchBase][💖💲crunchbase-img]][💖💲crunchbase] [![My LinkTree][💖🌳linktree-img]][💖🌳linktree] [![More About Me][💖💁🏼‍♂️aboutme-img]][💖💁🏼‍♂️aboutme] [🧊][💖🧊berg] [🐙][💖🐙hub]  [🛖][💖🛖hut] [🧪][💖🧪lab]
+[![License: MIT][📄license-img]][📄license-ref] [![Deps Locked][🚎13-🔒️-wfi]][🚎13-🔒️-wf] [![📄ilo-declaration-img]][📄ilo-declaration]  [![Contributor Covenant 2.1][🪇conduct-img]][🪇conduct] [![Gitmoji Commits][📌gitmoji-img]][📌gitmoji] [![Follow Me on LinkedIn][💖🖇linkedin-img]][💖🖇linkedin] [![Follow Me on Ruby.Social][💖🐘ruby-mast-img]][💖🐘ruby-mast] [![Follow Me on Bluesky][💖🦋bluesky-img]][💖🦋bluesky] [![Contact BDFL][🚂bdfl-contact-img]][🚂bdfl-contact] [![My technical writing][💖💁🏼‍♂️devto-img]][💖💁🏼‍♂️devto] [![Find Me on WellFound:][💖✌️wellfound-img]][💖✌️wellfound] [![Find Me on CrunchBase][💖💲crunchbase-img]][💖💲crunchbase] [![My LinkTree][💖🌳linktree-img]][💖🌳linktree] [![More About Me][💖💁🏼‍♂️aboutme-img]][💖💁🏼‍♂️aboutme] [🧊][💖🧊berg] [🐙][💖🐙hub] [🛖][💖🛖hut] [🧪][💖🧪lab]
 
-[![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite] [![Get help from me on Upwork][👨🏼‍🏫expsup-upwork-img]][👨🏼‍🏫expsup-upwork] [![Get help from me on Codementor][👨🏼‍🏫expsup-codementor-img]][👨🏼‍🏫expsup-codementor]
+[![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite] [![Get help from me on Upwork][👨🏼‍🏫expsup-upwork-img]][👨🏼‍🏫expsup-upwork] [![Get help from me on Codementor][👨🏼‍🏫expsup-codementor-img]][👨🏼‍🏫expsup-codementor] [![YARD on Galtzo.com][📜docs-head-rd-img]][🚎yard-head] [![BDFL Blog][🚂bdfl-blog-img]][🚂bdfl-blog]
 
 An effort to normalize and standardize the logos used across various open source projects, giving proper credit to the creators, and documenting the licenses and copyrights of each logo.
 
@@ -723,6 +723,9 @@ P.S. Use the gem => Discord for help
 [👨🏼‍🏫expsup-codementor-img]: https://img.shields.io/badge/CodeMentor-Get_Help-1abc9c?style=for-the-badge&logo=CodeMentor&logoColor=white
 [💁🏼‍♂️peterboling]: http://www.peterboling.com
 [🚂railsbling]: http://www.railsbling.com
+[📜docs-head-rd-img]: https://img.shields.io/badge/YARD_on_Galtzo.com-HEAD-943CD2?style=for-the-badge&logo=readthedocs&logoColor=white
+[🚎13-🔒️-wf]: https://github.com/galtzo-floss/rspec-stubbed_env/actions/workflows/deps_locked.yml
+[🚎13-🔒️-wfi]: https://github.com/galtzo-floss/rspec-stubbed_env/actions/workflows/deps_locked.yml/badge.svg
 [🤝gh-issues]: https://github.com/galtzo-floss/logos/issues
 [🤝gh-pulls]: https://github.com/galtzo-floss/logos/pulls
 [🤝contributing]: CONTRIBUTING.md
@@ -740,3 +743,4 @@ P.S. Use the gem => Discord for help
 [📄license-img]: https://img.shields.io/badge/License-MIT-259D6C.svg
 [📄ilo-declaration]: https://www.ilo.org/declaration/lang--en/index.htm
 [📄ilo-declaration-img]: https://img.shields.io/badge/ILO_Fundamental_Principles-✓-259D6C.svg?style=flat
+[🚎yard-head]: https://logos.galtzo.com
