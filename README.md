@@ -1,11 +1,15 @@
 <p align="center">
-    <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
-      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0"/>
-    </a>
-    <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
-      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0"/>
-    </a>
+
+  [![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️galtzo] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️galtzo-no-bg]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️galtzo-blank]
+
 </p>
+
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
+[🖼️galtzo]: https://logos.galtzo.com/
+[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
+[🖼️galtzo-blank]: https://logos.galtzo.com/
+[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
+[🖼️galtzo-no-bg]: https://logos.galtzo.com/
 
 # 🪵 logos
 
@@ -13,7 +17,7 @@
 
 [![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite] [![Get help from me on Upwork][👨🏼‍🏫expsup-upwork-img]][👨🏼‍🏫expsup-upwork] [![Get help from me on Codementor][👨🏼‍🏫expsup-codementor-img]][👨🏼‍🏫expsup-codementor] [![YARD on Galtzo.com][📜docs-head-rd-img]][🚎yard-head] [![BDFL Blog][🚂bdfl-blog-img]][🚂bdfl-blog]
 
-An effort to normalize and standardize the logos used across various open source projects, giving proper credit to the creators, and documenting the licenses and copyrights of each logo.
+An effort to normalize and standardize logos used across various open source projects, giving proper credit to the creators while documenting the license and copyright of each.
 
 It also serves as an example of how you might put logos to use in your project, as you may have noticed at the top of this readme.
 
@@ -21,8 +25,8 @@ Logos original to this project are by [@Aboling0](https://github.com/Aboling0). 
 
 **Patterns**
 
-- Org logo directory structure: `<org name>` / `<logos>`
-- Project logo directory structure: `<org name>` / `<project name>` / `<logos>`
+- Org logo directory structure: `<org name>` / `<images>`
+- Project logo directory structure: `<org name>` / `<project name>` / `<images>`
 - Logo Naming
   - SVG (Vector)
     - The main logo will be an SVG if one is available.
@@ -44,6 +48,23 @@ Logos original to this project are by [@Aboling0](https://github.com/Aboling0). 
 Feel free to submit PRs to add more logos, or update the license and copyright information.
 
 ## Literally Logos
+
+The logos at the very top of this readme are a good example of usage. This is the markdown code that generates them:
+
+```markdown
+<p align="center">
+
+  [![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️galtzo] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️galtzo-no-bg]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️galtzo-blank] 
+
+</p>
+
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
+[🖼️galtzo]: https://logos.galtzo.com/
+[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
+[🖼️galtzo-blank]: https://logos.galtzo.com/
+[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
+[🖼️galtzo-no-bg]: https://logos.galtzo.com/
+```
 
 ### appraisal-rb
 
