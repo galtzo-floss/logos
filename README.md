@@ -1056,13 +1056,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![omniauth Logo][🖼️omniauth-i]][🖼️omniauth]
 
-[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.svg
+[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.png
 [🖼️omniauth]: https://github.com/omniauth/
 
 ```markdown
 [![omniauth Logo][🖼️omniauth-i]][🖼️omniauth]
 
-[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.svg
+[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.png
 [🖼️omniauth]: https://github.com/omniauth
 ```
 
