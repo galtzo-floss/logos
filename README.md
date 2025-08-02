@@ -1,8 +1,4 @@
-<div align="center">
-
-  [![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️logos]
-
-</div>
+[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️logos]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
@@ -52,16 +48,13 @@ Feel free to submit PRs to add more logos, or update the license and copyright i
 The logos at the very top of this readme are a good example of usage. This is the markdown code that generates them:
 
 ```markdown
-<div align="center">
-
 [![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️logos]
-
-</div>
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
 [🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
 [🖼️logos]: https://logos.galtzo.com/
+
 ```
 
 ### appraisal-rb
