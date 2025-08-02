@@ -1,4 +1,4 @@
-[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️logos]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
@@ -48,7 +48,7 @@ Feel free to submit PRs to add more logos, or update the license and copyright i
 The logos at the very top of this readme are a good example of usage. This is the markdown code that generates them:
 
 ```markdown
-[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️logos]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
@@ -59,13 +59,13 @@ The logos at the very top of this readme are a good example of usage. This is th
 
 ### appraisal-rb
 
-[![appraisal-rb Logo][🖼appraisal-rb-i]][🖼appraisal-rb]
+[![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼appraisal-rb-i]][🖼appraisal-rb]
 
 [🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-128px.svg
 [🖼appraisal-rb]: https://github.com/appraisal-rb/
 
 ```markdown
-[![appraisal-rb Logo][🖼appraisal-rb-i]][🖼appraisal-rb]
+[![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼appraisal-rb-i]][🖼appraisal-rb]
 
 [🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-128px.svg
 [🖼appraisal-rb]: https://github.com/appraisal-rb/
@@ -84,13 +84,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### appraisal2
 
-[![Appraisal2 Logo][🖼appraisal2-i]][🖼appraisal2]
+[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼appraisal2-i]][🖼appraisal2]
 
 [🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-128px.svg
 [🖼appraisal2]: https://github.com/appraisal-rb/appraisal2
 
 ```markdown
-[![Appraisal2 Logo][🖼appraisal2-i]][🖼appraisal2]
+[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼appraisal2-i]][🖼appraisal2]
 
 [🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-128px.svg
 [🖼appraisal2]: https://github.com/appraisal-rb/appraisal2
@@ -110,7 +110,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### galtzo-floss
 
-[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️galtzo-floss]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️galtzo-floss]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️galtzo-floss]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
@@ -118,7 +118,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️galtzo-floss]: https://github.com/galtzo-floss
 
 ```markdown
-[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️galtzo-floss]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️galtzo-floss]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️galtzo-floss]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
@@ -149,13 +149,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### activerecord-transactionable
 
-[![activerecord-transactionable Logo][🖼️activerecord-transactionable-i]][🖼️activerecord-transactionable]
+[![activerecord-transactionable Logo by Aboling0, CC BY-SA 4.0][🖼️activerecord-transactionable-i]][🖼️activerecord-transactionable]
 
 [🖼️activerecord-transactionable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activerecord-transactionable/avatar-192px.svg
 [🖼️activerecord-transactionable]: https://github.com/galtzo-floss/activerecord-transactionable
 
 ```markdown
-[![activerecord-transactionable Logo][🖼️activerecord-transactionable-i]][🖼️activerecord-transactionable]
+[![activerecord-transactionable Logo by Aboling0, CC BY-SA 4.0][🖼️activerecord-transactionable-i]][🖼️activerecord-transactionable]
 
 [🖼️activerecord-transactionable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activerecord-transactionable/avatar-192px.svg
 [🖼️activerecord-transactionable]: https://github.com/galtzo-floss/activerecord-transactionable
@@ -175,13 +175,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### activesupport-broadcast_logger
 
-[![activesupport-broadcast_logger Logo][🖼️activesupport-broadcast_logger-i]][🖼️activesupport-broadcast_logger]
+[![activesupport-broadcast_logger Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-broadcast_logger-i]][🖼️activesupport-broadcast_logger]
 
 [🖼️activesupport-broadcast_logger-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-broadcast_logger/avatar-192px.svg
 [🖼️activesupport-broadcast_logger]: https://github.com/galtzo-floss/activesupport-broadcast_logger
 
 ```markdown
-[![activesupport-broadcast_logger Logo][🖼️activesupport-broadcast_logger-i]][🖼️activesupport-broadcast_logger]
+[![activesupport-broadcast_logger Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-broadcast_logger-i]][🖼️activesupport-broadcast_logger]
 
 [🖼️activesupport-broadcast_logger-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-broadcast_logger/avatar-192px.svg
 [🖼️activesupport-broadcast_logger]: https://github.com/galtzo-floss/activesupport-broadcast_logger
@@ -201,13 +201,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### activesupport-logger
 
-[![activesupport-logger Logo][🖼️activesupport-logger-i]][🖼️activesupport-logger]
+[![activesupport-logger Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-logger-i]][🖼️activesupport-logger]
 
 [🖼️activesupport-logger-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-logger/avatar-192px.svg
 [🖼️activesupport-logger]: https://github.com/galtzo-floss/activesupport-logger
 
 ```markdown
-[![activesupport-logger Logo][🖼️activesupport-logger-i]][🖼️activesupport-logger]
+[![activesupport-logger Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-logger-i]][🖼️activesupport-logger]
 
 [🖼️activesupport-logger-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-logger/avatar-192px.svg
 [🖼️activesupport-logger]: https://github.com/galtzo-floss/activesupport-logger
@@ -226,13 +226,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### activesupport-tagged_logging
 
-[![activesupport-tagged_logging Logo][🖼️activesupport-tagged_logging-i]][🖼️activesupport-tagged_logging]
+[![activesupport-tagged_logging Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-tagged_logging-i]][🖼️activesupport-tagged_logging]
 
 [🖼️activesupport-tagged_logging-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-tagged_logging/avatar-192px.svg
 [🖼️activesupport-tagged_logging]: https://github.com/galtzo-floss/
 
 ```markdown
-[![activesupport-tagged_logging Logo][🖼️activesupport-tagged_logging-i]][🖼️activesupport-tagged_logging]
+[![activesupport-tagged_logging Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-tagged_logging-i]][🖼️activesupport-tagged_logging]
 
 [🖼️activesupport-tagged_logging-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-tagged_logging/avatar-192px.svg
 [🖼️activesupport-tagged_logging]: https://github.com/galtzo-floss/activesupport-tagged_logging
@@ -251,13 +251,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### anonymous_active_record
 
-[![anonymous_active_record Logo][🖼️anonymous_active_record-i]][🖼️anonymous_active_record]
+[![anonymous_active_record Logo by Aboling0, CC BY-SA 4.0][🖼️anonymous_active_record-i]][🖼️anonymous_active_record]
 
 [🖼️anonymous_active_record-i]: https://logos.galtzo.com/assets/images/galtzo-floss/anonymous_active_record/avatar-192px.svg
 [🖼️anonymous_active_record]: https://github.com/galtzo-floss/anonymous_active_record
 
 ```markdown
-[![anonymous_active_record Logo][🖼️anonymous_active_record-i]][🖼️anonymous_active_record]
+[![anonymous_active_record Logo by Aboling0, CC BY-SA 4.0][🖼️anonymous_active_record-i]][🖼️anonymous_active_record]
 
 [🖼️anonymous_active_record-i]: https://logos.galtzo.com/assets/images/galtzo-floss/anonymous_active_record/avatar-192px.svg
 [🖼️anonymous_active_record]: https://github.com/galtzo-floss/anonymous_active_record
@@ -276,13 +276,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### awesome_search
 
-[![awesome_search Logo][🖼️awesome_search-i]][🖼️awesome_search]
+[![awesome_search Logo by Aboling0, CC BY-SA 4.0][🖼️awesome_search-i]][🖼️awesome_search]
 
 [🖼️awesome_search-i]: https://logos.galtzo.com/assets/images/galtzo-floss/awesome_search/avatar-192px.svg
 [🖼️awesome_search]: https://github.com/galtzo-floss/awesome_search
 
 ```markdown
-[![awesome_search Logo][🖼️awesome_search-i]][🖼️awesome_search]
+[![awesome_search Logo by Aboling0, CC BY-SA 4.0][🖼️awesome_search-i]][🖼️awesome_search]
 
 [🖼️awesome_search-i]: https://logos.galtzo.com/assets/images/galtzo-floss/awesome_search/avatar-192px.svg
 [🖼️awesome_search]: https://github.com/galtzo-floss/awesome_search
@@ -301,13 +301,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### capistrano_mailer
 
-[![capistrano_mailer Logo][🖼️capistrano_mailer-i]][🖼️capistrano_mailer]
+[![capistrano_mailer Logo by Aboling0, CC BY-SA 4.0][🖼️capistrano_mailer-i]][🖼️capistrano_mailer]
 
 [🖼️capistrano_mailer-i]: https://logos.galtzo.com/assets/images/galtzo-floss/capistrano_mailer/avatar-192px.svg
 [🖼️capistrano_mailer]: https://github.com/galtzo-floss/capistrano_mailer
 
 ```markdown
-[![capistrano_mailer Logo][🖼️capistrano_mailer-i]][🖼️capistrano_mailer]
+[![capistrano_mailer Logo by Aboling0, CC BY-SA 4.0][🖼️capistrano_mailer-i]][🖼️capistrano_mailer]
 
 [🖼️capistrano_mailer-i]: https://logos.galtzo.com/assets/images/galtzo-floss/capistrano_mailer/avatar-192px.svg
 [🖼️capistrano_mailer]: https://github.com/galtzo-floss/capistrano_mailer
@@ -326,13 +326,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### celluloid-io-pg-listener
 
-[![celluloid-io-pg-listener Logo][🖼️celluloid-io-pg-listener-i]][🖼️celluloid-io-pg-listener]
+[![celluloid-io-pg-listener Logo by Aboling0, CC BY-SA 4.0][🖼️celluloid-io-pg-listener-i]][🖼️celluloid-io-pg-listener]
 
 [🖼️celluloid-io-pg-listener-i]: https://logos.galtzo.com/assets/images/galtzo-floss/celluloid-io-pg-listener/avatar-192px.svg
 [🖼️celluloid-io-pg-listener]: https://github.com/galtzo-floss/celluloid-io-pg-listener
 
 ```markdown
-[![celluloid-io-pg-listener Logo][🖼️celluloid-io-pg-listener-i]][🖼️celluloid-io-pg-listener]
+[![celluloid-io-pg-listener Logo by Aboling0, CC BY-SA 4.0][🖼️celluloid-io-pg-listener-i]][🖼️celluloid-io-pg-listener]
 
 [🖼️celluloid-io-pg-listener-i]: https://logos.galtzo.com/assets/images/galtzo-floss/celluloid-io-pg-listener/avatar-192px.svg
 [🖼️celluloid-io-pg-listener]: https://github.com/galtzo-floss/celluloid-io-pg-listener
@@ -351,13 +351,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### csv_pirate
 
-[![csv_pirate Logo][🖼️csv_pirate-i]][🖼️csv_pirate]
+[![csv_pirate Logo by Aboling0, CC BY-SA 4.0][🖼️csv_pirate-i]][🖼️csv_pirate]
 
 [🖼️csv_pirate-i]: https://logos.galtzo.com/assets/images/galtzo-floss/csv_pirate/avatar-192px.svg
 [🖼️csv_pirate]: https://github.com/galtzo-floss/csv_pirate
 
 ```markdown
-[![csv_pirate Logo][🖼️csv_pirate-i]][🖼️csv_pirate]
+[![csv_pirate Logo by Aboling0, CC BY-SA 4.0][🖼️csv_pirate-i]][🖼️csv_pirate]
 
 [🖼️csv_pirate-i]: https://logos.galtzo.com/assets/images/galtzo-floss/csv_pirate/avatar-192px.svg
 [🖼️csv_pirate]: https://github.com/galtzo-floss/csv_pirate
@@ -376,13 +376,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### debug_logging
 
-[![debug_logging Logo][🖼️debug_logging-i]][🖼️debug_logging]
+[![debug_logging Logo by Aboling0, CC BY-SA 4.0][🖼️debug_logging-i]][🖼️debug_logging]
 
 [🖼️debug_logging-i]: https://logos.galtzo.com/assets/images/galtzo-floss/debug_logging/avatar-192px.svg
 [🖼️debug_logging]: https://github.com/galtzo-floss/debug_logging
 
 ```markdown
-[![debug_logging Logo][🖼️debug_logging-i]][🖼️debug_logging]
+[![debug_logging Logo by Aboling0, CC BY-SA 4.0][🖼️debug_logging-i]][🖼️debug_logging]
 
 [🖼️debug_logging-i]: https://logos.galtzo.com/assets/images/galtzo-floss/debug_logging/avatar-192px.svg
 [🖼️debug_logging]: https://github.com/galtzo-floss/debug_logging
@@ -401,13 +401,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### dry_views
 
-[![dry_views Logo][🖼️dry_views-i]][🖼️dry_views]
+[![dry_views Logo by Aboling0, CC BY-SA 4.0][🖼️dry_views-i]][🖼️dry_views]
 
 [🖼️dry_views-i]: https://logos.galtzo.com/assets/images/galtzo-floss/dry_views/avatar-192px.svg
 [🖼️dry_views]: https://github.com/galtzo-floss/dry_views
 
 ```markdown
-[![dry_views Logo][🖼️dry_views-i]][🖼️dry_views]
+[![dry_views Logo by Aboling0, CC BY-SA 4.0][🖼️dry_views-i]][🖼️dry_views]
 
 [🖼️dry_views-i]: https://logos.galtzo.com/assets/images/galtzo-floss/dry_views/avatar-192px.svg
 [🖼️dry_views]: https://github.com/galtzo-floss/dry_views
@@ -426,13 +426,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### each_in_batches
 
-[![each_in_batches Logo][🖼️each_in_batches-i]][🖼️each_in_batches]
+[![each_in_batches Logo by Aboling0, CC BY-SA 4.0][🖼️each_in_batches-i]][🖼️each_in_batches]
 
 [🖼️each_in_batches-i]: https://logos.galtzo.com/assets/images/galtzo-floss/each_in_batches/avatar-192px.svg
 [🖼️each_in_batches]: https://github.com/galtzo-floss/each_in_batches
 
 ```markdown
-[![each_in_batches Logo][🖼️each_in_batches-i]][🖼️each_in_batches]
+[![each_in_batches Logo by Aboling0, CC BY-SA 4.0][🖼️each_in_batches-i]][🖼️each_in_batches]
 
 [🖼️each_in_batches-i]: https://logos.galtzo.com/assets/images/galtzo-floss/each_in_batches/avatar-192px.svg
 [🖼️each_in_batches]: https://github.com/galtzo-floss/each_in_batches
@@ -451,13 +451,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### flag_shih_tzu
 
-[![flag_shih_tzu Logo][🖼️flag_shih_tzu-i]][🖼️flag_shih_tzu]
+[![flag_shih_tzu Logo by Aboling0, CC BY-SA 4.0][🖼️flag_shih_tzu-i]][🖼️flag_shih_tzu]
 
 [🖼️flag_shih_tzu-i]: https://logos.galtzo.com/assets/images/galtzo-floss/flag_shih_tzu/avatar-192px.svg
 [🖼️flag_shih_tzu]: https://github.com/galtzo-floss/flag_shih_tzu
 
 ```markdown
-[![flag_shih_tzu Logo][🖼️flag_shih_tzu-i]][🖼️flag_shih_tzu]
+[![flag_shih_tzu Logo by Aboling0, CC BY-SA 4.0][🖼️flag_shih_tzu-i]][🖼️flag_shih_tzu]
 
 [🖼️flag_shih_tzu-i]: https://logos.galtzo.com/assets/images/galtzo-floss/flag_shih_tzu/avatar-192px.svg
 [🖼️flag_shih_tzu]: https://github.com/galtzo-floss/flag_shih_tzu
@@ -476,13 +476,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### gem_bench
 
-[![gem_bench Logo][🖼️gem_bench-i]][🖼️gem_bench]
+[![gem_bench Logo by Aboling0, CC BY-SA 4.0][🖼️gem_bench-i]][🖼️gem_bench]
 
 [🖼️gem_bench-i]: https://logos.galtzo.com/assets/images/galtzo-floss/gem_bench/avatar-192px.svg
 [🖼️gem_bench]: https://github.com/galtzo-floss/gem_bench
 
 ```markdown
-[![gem_bench Logo][🖼️gem_bench-i]][🖼️gem_bench]
+[![gem_bench Logo by Aboling0, CC BY-SA 4.0][🖼️gem_bench-i]][🖼️gem_bench]
 
 [🖼️gem_bench-i]: https://logos.galtzo.com/assets/images/galtzo-floss/gem_bench/avatar-192px.svg
 [🖼️gem_bench]: https://github.com/galtzo-floss/gem_bench
@@ -501,13 +501,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### gitmoji-regex
 
-[![gitmoji-regex Logo][🖼️gitmoji-regex-i]][🖼️gitmoji-regex]
+[![gitmoji-regex Logo by Aboling0, CC BY-SA 4.0][🖼️gitmoji-regex-i]][🖼️gitmoji-regex]
 
 [🖼️gitmoji-regex-i]: https://logos.galtzo.com/assets/images/galtzo-floss/gitmoji-regex/avatar-192px.svg
 [🖼️gitmoji-regex]: https://github.com/galtzo-floss/gitmoji-regex
 
 ```markdown
-[![gitmoji-regex Logo][🖼️gitmoji-regex-i]][🖼️gitmoji-regex]
+[![gitmoji-regex Logo by Aboling0, CC BY-SA 4.0][🖼️gitmoji-regex-i]][🖼️gitmoji-regex]
 
 [🖼️gitmoji-regex-i]: https://logos.galtzo.com/assets/images/galtzo-floss/gitmoji-regex/avatar-192px.svg
 [🖼️gitmoji-regex]: https://github.com/galtzo-floss/gitmoji-regex
@@ -526,13 +526,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### humorous_log_formatter
 
-[![humorous_log_formatter Logo][🖼️humorous_log_formatter-i]][🖼️humorous_log_formatter]
+[![humorous_log_formatter Logo by Aboling0, CC BY-SA 4.0][🖼️humorous_log_formatter-i]][🖼️humorous_log_formatter]
 
 [🖼️humorous_log_formatter-i]: https://logos.galtzo.com/assets/images/galtzo-floss/humorous_log_formatter/avatar-192px.svg
 [🖼️humorous_log_formatter]: https://github.com/galtzo-floss/humorous_log_formatter
 
 ```markdown
-[![humorous_log_formatter Logo][🖼️humorous_log_formatter-i]][🖼️humorous_log_formatter]
+[![humorous_log_formatter Logo by Aboling0, CC BY-SA 4.0][🖼️humorous_log_formatter-i]][🖼️humorous_log_formatter]
 
 [🖼️humorous_log_formatter-i]: https://logos.galtzo.com/assets/images/galtzo-floss/humorous_log_formatter/avatar-192px.svg
 [🖼️humorous_log_formatter]: https://github.com/galtzo-floss/humorous_log_formatter
@@ -551,13 +551,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### include_with_respect
 
-[![include_with_respect Logo][🖼️include_with_respect-i]][🖼️include_with_respect]
+[![include_with_respect Logo by Aboling0, CC BY-SA 4.0][🖼️include_with_respect-i]][🖼️include_with_respect]
 
 [🖼️include_with_respect-i]: https://logos.galtzo.com/assets/images/galtzo-floss/include_with_respect/avatar-192px.svg
 [🖼️include_with_respect]: https://github.com/galtzo-floss/include_with_respect
 
 ```markdown
-[![include_with_respect Logo][🖼️include_with_respect-i]][🖼️include_with_respect]
+[![include_with_respect Logo by Aboling0, CC BY-SA 4.0][🖼️include_with_respect-i]][🖼️include_with_respect]
 
 [🖼️include_with_respect-i]: https://logos.galtzo.com/assets/images/galtzo-floss/include_with_respect/avatar-192px.svg
 [🖼️include_with_respect]: https://github.com/galtzo-floss/include_with_respect
@@ -576,13 +576,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### month-serializer
 
-[![include_with_respect Logo][🖼️include_with_respect-i]][🖼️include_with_respect]
+[![include_with_respect Logo by Aboling0, CC BY-SA 4.0][🖼️include_with_respect-i]][🖼️include_with_respect]
 
 [🖼️include_with_respect-i]: https://logos.galtzo.com/assets/images/galtzo-floss/include_with_respect/avatar-192px.svg
 [🖼️include_with_respect]: https://github.com/galtzo-floss/include_with_respect
 
 ```markdown
-[![include_with_respect Logo][🖼️include_with_respect-i]][🖼️include_with_respect]
+[![include_with_respect Logo by Aboling0, CC BY-SA 4.0][🖼️include_with_respect-i]][🖼️include_with_respect]
 
 [🖼️include_with_respect-i]: https://logos.galtzo.com/assets/images/galtzo-floss/include_with_respect/avatar-192px.svg
 [🖼️include_with_respect]: https://github.com/galtzo-floss/include_with_respect
@@ -601,13 +601,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### pretty_feed
 
-[![pretty_feed Logo][🖼️pretty_feed-i]][🖼️pretty_feed]
+[![pretty_feed Logo by Aboling0, CC BY-SA 4.0][🖼️pretty_feed-i]][🖼️pretty_feed]
 
 [🖼️pretty_feed-i]: https://logos.galtzo.com/assets/images/galtzo-floss/pretty_feed/avatar-192px.svg
 [🖼️pretty_feed]: https://github.com/galtzo-floss/pretty_feed
 
 ```markdown
-[![pretty_feed Logo][🖼️pretty_feed-i]][🖼️pretty_feed]
+[![pretty_feed Logo by Aboling0, CC BY-SA 4.0][🖼️pretty_feed-i]][🖼️pretty_feed]
 
 [🖼️pretty_feed-i]: https://logos.galtzo.com/assets/images/galtzo-floss/pretty_feed/avatar-192px.svg
 [🖼️pretty_feed]: https://github.com/galtzo-floss/pretty_feed
@@ -626,13 +626,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### qfill
 
-[![qfill Logo][🖼️qfill-i]][🖼️qfill]
+[![qfill Logo by Aboling0, CC BY-SA 4.0][🖼️qfill-i]][🖼️qfill]
 
 [🖼️qfill-i]: https://logos.galtzo.com/assets/images/galtzo-floss/qfill/avatar-192px.svg
 [🖼️qfill]: https://github.com/galtzo-floss/qfill
 
 ```markdown
-[![qfill Logo][🖼️qfill-i]][🖼️qfill]
+[![qfill Logo by Aboling0, CC BY-SA 4.0][🖼️qfill-i]][🖼️qfill]
 
 [🖼️qfill-i]: https://logos.galtzo.com/assets/images/galtzo-floss/qfill/avatar-192px.svg
 [🖼️qfill]: https://github.com/galtzo-floss/qfill
@@ -651,13 +651,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### rack-toolbar
 
-[![rack-toolbar Logo][🖼️rack-toolbar-i]][🖼️rack-toolbar]
+[![rack-toolbar Logo by Aboling0, CC BY-SA 4.0][🖼️rack-toolbar-i]][🖼️rack-toolbar]
 
 [🖼️rack-toolbar-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rack-toolbar/avatar-192px.svg
 [🖼️rack-toolbar]: https://github.com/galtzo-floss/rack-toolbar
 
 ```markdown
-[![rack-toolbar Logo][🖼️rack-toolbar-i]][🖼️rack-toolbar]
+[![rack-toolbar Logo by Aboling0, CC BY-SA 4.0][🖼️rack-toolbar-i]][🖼️rack-toolbar]
 
 [🖼️rack-toolbar-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rack-toolbar/avatar-192px.svg
 [🖼️rack-toolbar]: https://github.com/galtzo-floss/rack-toolbar
@@ -676,13 +676,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### react-rails-benchmark_renderer
 
-[![react-rails-benchmark_renderer Logo][🖼️react-rails-benchmark_renderer-i]][🖼️react-rails-benchmark_renderer]
+[![react-rails-benchmark_renderer Logo by Aboling0, CC BY-SA 4.0][🖼️react-rails-benchmark_renderer-i]][🖼️react-rails-benchmark_renderer]
 
 [🖼️react-rails-benchmark_renderer-i]: https://logos.galtzo.com/assets/images/galtzo-floss/react-rails-benchmark_renderer/avatar-192px.svg
 [🖼️react-rails-benchmark_renderer]: https://github.com/galtzo-floss/react-rails-benchmark_renderer
 
 ```markdown
-[![react-rails-benchmark_renderer Logo][🖼️react-rails-benchmark_renderer-i]][🖼️react-rails-benchmark_renderer]
+[![react-rails-benchmark_renderer Logo by Aboling0, CC BY-SA 4.0][🖼️react-rails-benchmark_renderer-i]][🖼️react-rails-benchmark_renderer]
 
 [🖼️react-rails-benchmark_renderer-i]: https://logos.galtzo.com/assets/images/galtzo-floss/react-rails-benchmark_renderer/avatar-192px.svg
 [🖼️react-rails-benchmark_renderer]: https://github.com/galtzo-floss/react-rails-benchmark_renderer
@@ -701,13 +701,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### require_bench
 
-[![require_bench Logo][🖼️require_bench-i]][🖼️require_bench]
+[![require_bench Logo by Aboling0, CC BY-SA 4.0][🖼️require_bench-i]][🖼️require_bench]
 
 [🖼️require_bench-i]: https://logos.galtzo.com/assets/images/galtzo-floss/require_bench/avatar-192px.svg
 [🖼️require_bench]: https://github.com/galtzo-floss/require_bench
 
 ```markdown
-[![require_bench Logo][🖼️require_bench-i]][🖼️require_bench]
+[![require_bench Logo by Aboling0, CC BY-SA 4.0][🖼️require_bench-i]][🖼️require_bench]
 
 [🖼️require_bench-i]: https://logos.galtzo.com/assets/images/galtzo-floss/require_bench/avatar-192px.svg
 [🖼️require_bench]: https://github.com/galtzo-floss/require_bench
@@ -726,13 +726,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### rspec-block_is_expected
 
-[![rspec-block_is_expected Logo][🖼️rspec-block_is_expected-i]][🖼️rspec-block_is_expected]
+[![rspec-block_is_expected Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-block_is_expected-i]][🖼️rspec-block_is_expected]
 
 [🖼️rspec-block_is_expected-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rspec-block_is_expected/avatar-192px.svg
 [🖼️rspec-block_is_expected]: https://github.com/galtzo-floss/rspec-block_is_expected
 
 ```markdown
-[![rspec-block_is_expected Logo][🖼️rspec-block_is_expected-i]][🖼️rspec-block_is_expected]
+[![rspec-block_is_expected Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-block_is_expected-i]][🖼️rspec-block_is_expected]
 
 [🖼️rspec-block_is_expected-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rspec-block_is_expected/avatar-192px.svg
 [🖼️rspec-block_is_expected]: https://github.com/galtzo-floss/rspec-block_is_expected
@@ -751,13 +751,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### rspec-pending_for
 
-[![rspec-pending_for Logo][🖼️rspec-pending_for-i]][🖼️rspec-pending_for]
+[![rspec-pending_for Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-pending_for-i]][🖼️rspec-pending_for]
 
 [🖼️rspec-pending_for-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rspec-pending_for/avatar-192px.svg
 [🖼️rspec-pending_for]: https://github.com/galtzo-floss/rspec-pending_for
 
 ```markdown
-[![rspec-pending_for Logo][🖼️rspec-pending_for-i]][🖼️rspec-pending_for]
+[![rspec-pending_for Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-pending_for-i]][🖼️rspec-pending_for]
 
 [🖼️rspec-pending_for-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rspec-pending_for/avatar-192px.svg
 [🖼️rspec-pending_for]: https://github.com/galtzo-floss/rspec-pending_for
@@ -776,13 +776,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### rspec-stubbed_env
 
-[![rspec-stubbed_env Logo][🖼️rspec-stubbed_env-i]][🖼️rspec-stubbed_env]
+[![rspec-stubbed_env Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-stubbed_env-i]][🖼️rspec-stubbed_env]
 
 [🖼️rspec-stubbed_env-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rspec-stubbed_env/avatar-192px.svg
 [🖼️rspec-stubbed_env]: https://github.com/galtzo-floss/rspec-stubbed_env
 
 ```markdown
-[![rspec-stubbed_env Logo][🖼️rspec-stubbed_env-i]][🖼️rspec-stubbed_env]
+[![rspec-stubbed_env Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-stubbed_env-i]][🖼️rspec-stubbed_env]
 
 [🖼️rspec-stubbed_env-i]: https://logos.galtzo.com/assets/images/galtzo-floss/rspec-stubbed_env/avatar-192px.svg
 [🖼️rspec-stubbed_env]: https://github.com/galtzo-floss/rspec-stubbed_env
@@ -801,13 +801,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### sanitize_email
 
-[![sanitize_email Logo][🖼️sanitize_email-i]][🖼️sanitize_email]
+[![sanitize_email Logo by Aboling0, CC BY-SA 4.0][🖼️sanitize_email-i]][🖼️sanitize_email]
 
 [🖼️sanitize_email-i]: https://logos.galtzo.com/assets/images/galtzo-floss/sanitize_email/avatar-192px.svg
 [🖼️sanitize_email]: https://github.com/galtzo-floss/sanitize_email
 
 ```markdown
-[![sanitize_email Logo][🖼️sanitize_email-i]][🖼️sanitize_email]
+[![sanitize_email Logo by Aboling0, CC BY-SA 4.0][🖼️sanitize_email-i]][🖼️sanitize_email]
 
 [🖼️sanitize_email-i]: https://logos.galtzo.com/assets/images/galtzo-floss/sanitize_email/avatar-192px.svg
 [🖼️sanitize_email]: https://github.com/galtzo-floss/sanitize_email
@@ -826,13 +826,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### seed_migration
 
-[![seed_migration Logo][🖼️seed_migration-i]][🖼️seed_migration]
+[![seed_migration Logo by Aboling0, CC BY-SA 4.0][🖼️seed_migration-i]][🖼️seed_migration]
 
 [🖼️seed_migration-i]: https://logos.galtzo.com/assets/images/galtzo-floss/seed_migration/avatar-192px.svg
 [🖼️seed_migration]: https://github.com/galtzo-floss/seed_migration
 
 ```markdown
-[![seed_migration Logo][🖼️seed_migration-i]][🖼️seed_migration]
+[![seed_migration Logo by Aboling0, CC BY-SA 4.0][🖼️seed_migration-i]][🖼️seed_migration]
 
 [🖼️seed_migration-i]: https://logos.galtzo.com/assets/images/galtzo-floss/seed_migration/avatar-192px.svg
 [🖼️seed_migration]: https://github.com/galtzo-floss/seed_migration
@@ -851,13 +851,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### sequential_file
 
-[![sequential_file Logo][🖼️sequential_file-i]][🖼️sequential_file]
+[![sequential_file Logo by Aboling0, CC BY-SA 4.0][🖼️sequential_file-i]][🖼️sequential_file]
 
 [🖼️sequential_file-i]: https://logos.galtzo.com/assets/images/galtzo-floss/sequential_file/avatar-192px.svg
 [🖼️sequential_file]: https://github.com/galtzo-floss/sequential_file
 
 ```markdown
-[![sequential_file Logo][🖼️sequential_file-i]][🖼️sequential_file]
+[![sequential_file Logo by Aboling0, CC BY-SA 4.0][🖼️sequential_file-i]][🖼️sequential_file]
 
 [🖼️sequential_file-i]: https://logos.galtzo.com/assets/images/galtzo-floss/sequential_file/avatar-192px.svg
 [🖼️sequential_file]: https://github.com/galtzo-floss/sequential_file
@@ -876,13 +876,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### service_actor-promptable
 
-[![service_actor-promptable Logo][🖼️service_actor-promptable-i]][🖼️service_actor-promptable]
+[![service_actor-promptable Logo by Aboling0, CC BY-SA 4.0][🖼️service_actor-promptable-i]][🖼️service_actor-promptable]
 
 [🖼️service_actor-promptable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/service_actor-promptable/avatar-192px.svg
 [🖼️service_actor-promptable]: https://github.com/galtzo-floss/service_actor-promptable
 
 ```markdown
-[![service_actor-promptable Logo][🖼️service_actor-promptable-i]][🖼️service_actor-promptable]
+[![service_actor-promptable Logo by Aboling0, CC BY-SA 4.0][🖼️service_actor-promptable-i]][🖼️service_actor-promptable]
 
 [🖼️service_actor-promptable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/service_actor-promptable/avatar-192px.svg
 [🖼️service_actor-promptable]: https://github.com/galtzo-floss/service_actor-promptable
@@ -901,13 +901,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### shields-badge
 
-[![shields-badge Logo][🖼️shields-badge-i]][🖼️shields-badge]
+[![shields-badge Logo by Aboling0, CC BY-SA 4.0][🖼️shields-badge-i]][🖼️shields-badge]
 
 [🖼️shields-badge-i]: https://logos.galtzo.com/assets/images/galtzo-floss/shields-badge/avatar-192px.svg
 [🖼️shields-badge]: https://github.com/galtzo-floss/shields-badge
 
 ```markdown
-[![shields-badge Logo][🖼️shields-badge-i]][🖼️shields-badge]
+[![shields-badge Logo by Aboling0, CC BY-SA 4.0][🖼️shields-badge-i]][🖼️shields-badge]
 
 [🖼️shields-badge-i]: https://logos.galtzo.com/assets/images/galtzo-floss/shields-badge/avatar-192px.svg
 [🖼️shields-badge]: https://github.com/galtzo-floss/shields-badge
@@ -926,13 +926,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### shiftable
 
-[![shiftable Logo][🖼️shiftable-i]][🖼️shiftable]
+[![shiftable Logo by Aboling0, CC BY-SA 4.0][🖼️shiftable-i]][🖼️shiftable]
 
 [🖼️shiftable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/shiftable/avatar-192px.svg
 [🖼️shiftable]: https://github.com/galtzo-floss/shiftable
 
 ```markdown
-[![shiftable Logo][🖼️shiftable-i]][🖼️shiftable]
+[![shiftable Logo by Aboling0, CC BY-SA 4.0][🖼️shiftable-i]][🖼️shiftable]
 
 [🖼️shiftable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/shiftable/avatar-192px.svg
 [🖼️shiftable]: https://github.com/galtzo-floss/shiftable
@@ -951,13 +951,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### stackable_flash
 
-[![stackable_flash Logo][🖼️stackable_flash-i]][🖼️stackable_flash]
+[![stackable_flash Logo by Aboling0, CC BY-SA 4.0][🖼️stackable_flash-i]][🖼️stackable_flash]
 
 [🖼️stackable_flash-i]: https://logos.galtzo.com/assets/images/galtzo-floss/stackable_flash/avatar-192px.svg
 [🖼️stackable_flash]: https://github.com/galtzo-floss/stackable_flash
 
 ```markdown
-[![stackable_flash Logo][🖼️stackable_flash-i]][🖼️stackable_flash]
+[![stackable_flash Logo by Aboling0, CC BY-SA 4.0][🖼️stackable_flash-i]][🖼️stackable_flash]
 
 [🖼️stackable_flash-i]: https://logos.galtzo.com/assets/images/galtzo-floss/stackable_flash/avatar-192px.svg
 [🖼️stackable_flash]: https://github.com/galtzo-floss/stackable_flash
@@ -976,13 +976,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### status_tag
 
-[![status_tag Logo][🖼️status_tag-i]][🖼️status_tag]
+[![status_tag Logo by Aboling0, CC BY-SA 4.0][🖼️status_tag-i]][🖼️status_tag]
 
 [🖼️status_tag-i]: https://logos.galtzo.com/assets/images/galtzo-floss/status_tag/avatar-192px.svg
 [🖼️status_tag]: https://github.com/galtzo-floss/status_tag
 
 ```markdown
-[![status_tag Logo][🖼️status_tag-i]][🖼️status_tag]
+[![status_tag Logo by Aboling0, CC BY-SA 4.0][🖼️status_tag-i]][🖼️status_tag]
 
 [🖼️status_tag-i]: https://logos.galtzo.com/assets/images/galtzo-floss/status_tag/avatar-192px.svg
 [🖼️status_tag]: https://github.com/galtzo-floss/status_tag
@@ -1001,13 +1001,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### stone_checksums
 
-[![stone_checksums Logo][🖼️stone_checksums-i]][🖼️stone_checksums]
+[![stone_checksums Logo by Aboling0, CC BY-SA 4.0][🖼️stone_checksums-i]][🖼️stone_checksums]
 
 [🖼️stone_checksums-i]: https://logos.galtzo.com/assets/images/galtzo-floss/stone_checksums/avatar-192px.svg
 [🖼️stone_checksums]: https://github.com/galtzo-floss/stone_checksums
 
 ```markdown
-[![stone_checksums Logo][🖼️stone_checksums-i]][🖼️stone_checksums]
+[![stone_checksums Logo by Aboling0, CC BY-SA 4.0][🖼️stone_checksums-i]][🖼️stone_checksums]
 
 [🖼️stone_checksums-i]: https://logos.galtzo.com/assets/images/galtzo-floss/stone_checksums/avatar-192px.svg
 [🖼️stone_checksums]: https://github.com/galtzo-floss/stone_checksums
@@ -1026,13 +1026,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### strict_states
 
-[![strict_states Logo][🖼️strict_states-i]][🖼️strict_states]
+[![strict_states Logo by Aboling0, CC BY-SA 4.0][🖼️strict_states-i]][🖼️strict_states]
 
 [🖼️strict_states-i]: https://logos.galtzo.com/assets/images/galtzo-floss/strict_states/avatar-192px.svg
 [🖼️strict_states]: https://github.com/galtzo-floss/strict_states
 
 ```markdown
-[![strict_states Logo][🖼️strict_states-i]][🖼️strict_states]
+[![strict_states Logo by Aboling0, CC BY-SA 4.0][🖼️strict_states-i]][🖼️strict_states]
 
 [🖼️strict_states-i]: https://logos.galtzo.com/assets/images/galtzo-floss/strict_states/avatar-192px.svg
 [🖼️strict_states]: https://github.com/galtzo-floss/strict_states
@@ -1103,14 +1103,14 @@ https://creativecommons.org/licenses/by-sa/2.5
 
 ### ruby-openid
 
-[![ruby-openid Logo][🖼️ruby-openid-i]][🖼️ruby-openid] [![ruby-openid Logo][🖼️ruby-openid-blank-i]][🖼️ruby-openid]
+[![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-i]][🖼️ruby-openid] [![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-blank-i]][🖼️ruby-openid]
 
 [🖼️ruby-openid-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px.svg
 [🖼️ruby-openid-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px-blank.svg
 [🖼️ruby-openid]: https://github.com/ruby-openid/
 
 ```markdown
-[![ruby-openid Logo][🖼️ruby-openid-i]][🖼️ruby-openid] [![ruby-openid Logo][🖼️ruby-openid-blank-i]][🖼️ruby-openid]
+[![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-i]][🖼️ruby-openid] [![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-blank-i]][🖼️ruby-openid]
 
 [🖼️ruby-openid-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px.svg
 [🖼️ruby-openid-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px-blank.svg
@@ -1258,8 +1258,8 @@ P.S. Use the project => Discord for help
 [💁🏼‍♂️peterboling]: http://www.peterboling.com
 [🚂railsbling]: http://www.railsbling.com
 [📜docs-head-rd-img]: https://img.shields.io/badge/YARD_on_Galtzo.com-HEAD-943CD2?style=for-the-badge&logo=readthedocs&logoColor=white
-[🚎13-🔒️-wf]: https://github.com/galtzo-floss/rspec-stubbed_env/actions/workflows/deps_locked.yml
-[🚎13-🔒️-wfi]: https://github.com/galtzo-floss/rspec-stubbed_env/actions/workflows/deps_locked.yml/badge.svg
+[🚎13-🔒️-wf]: https://github.com/galtzo-floss/logos/actions/workflows/deps_locked.yml
+[🚎13-🔒️-wfi]: https://github.com/galtzo-floss/logos/actions/workflows/deps_locked.yml/badge.svg
 [🤝gh-issues]: https://github.com/galtzo-floss/logos/issues
 [🤝gh-pulls]: https://github.com/galtzo-floss/logos/pulls
 [🤝contributing]: CONTRIBUTING.md
