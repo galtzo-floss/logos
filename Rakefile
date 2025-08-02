@@ -44,6 +44,10 @@ begin
       "*.cff",
       "*.md",
       "*.txt",
+      "*.svg",
+      "*.png",
+      "*.jpg",
+      "*.jpeg",
     ]
     t.stats_options = ["--list-undoc"] if ENV.fetch("VERBOSE", "false").casecmp?("true")
   end

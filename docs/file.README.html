@@ -58,13 +58,19 @@
       </div>
 
       <div id="content"><div id='filecontents'><p align="center">
-    <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
-      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0">
-    </a>
-    <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
-      <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0">
-    </a>
+
+  [![License: MIT][📄license-img]][📄license-ref]
+
+
+  <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
+    <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0">
+  </a>
+  <a href="https://discord.gg/3qme4XHNKN" target="_blank" rel="noopener">
+    <img width="84px" src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0">
+  </a>
 </p>
+
+<p>[🖼️galtzo]:</p>
 
 <h1 id="-logos">🪵 logos</h1>
 
@@ -81,24 +87,46 @@
 <p><strong>Patterns</strong></p>
 
 <ul>
-  <li>Org logo directory structure: <code>&lt;org name&gt;</code> / <code>&lt;logos&gt;</code>
+  <li>Org logo directory structure: <code>&lt;org name&gt;</code> / <code>&lt;images&gt;</code>
 </li>
-  <li>Project logo directory structure: <code>&lt;org name&gt;</code> / <code>&lt;project name&gt;</code> / <code>&lt;logos&gt;</code>
+  <li>Project logo directory structure: <code>&lt;org name&gt;</code> / <code>&lt;project name&gt;</code> / <code>&lt;images&gt;</code>
 </li>
   <li>Logo Naming
     <ul>
-      <li>The main logo will be an SVG if one is available.
+      <li>SVG (Vector)
         <ul>
-          <li>It will be named <code>logo.svg</code>
+          <li>The main logo will be an SVG if one is available.
+            <ul>
+              <li>It will be named <code>logo.svg</code>
 </li>
+              <li>It will be 500px, if possible</li>
+            </ul>
+          </li>
+          <li>
+<code>avatar</code> - 1:1 aspect ratio (square) and &lt; 200px
+            <ul>
+              <li>Normally there will be a 128px avatar for wordpress, and other sites that use the size</li>
+              <li>and a 192px avatar for gitlab, and other sites that use the size.</li>
+            </ul>
+          </li>
         </ul>
       </li>
-      <li>Rasterized logos are PNG if available, otherwise JPEG, and named according to size, shape, and intended usage. Possible base names start with:
+      <li>PNG (Rasterized)
         <ul>
+          <li>Rasterized logos are PNG if available, otherwise JPEG, and named according to size, shape, and intended usage. Possible base names start with:</li>
           <li>
-<code>avatar</code> - 1:1 aspect ratio (square) and &lt; 200px</li>
+<code>avatar</code> - 1:1 aspect ratio (square) and &lt; 200px
+            <ul>
+              <li>Normally there will be a 128px avatar for wordpress, and other sites that use the size</li>
+              <li>and a 192px avatar for gitlab, and other sites that use the size.</li>
+            </ul>
+          </li>
           <li>
-<code>square</code> - 1:1 aspect ratio (square) and &gt;= 200px</li>
+<code>square</code> - 1:1 aspect ratio (square) and &gt;= 200px
+            <ul>
+              <li>Normally there will be a 250px, and a 500px.</li>
+            </ul>
+          </li>
           <li>
 <code>social-preview</code> - Roughly 2:1 to 3:1 aspect ratio, and &gt; 640px wide</li>
           <li>
@@ -846,7 +874,7 @@ or one of smaller ones, depending on button size preference.</p>
 </div></div>
 
       <div id="footer">
-  Generated on Thu Jul 31 20:30:58 2025 by
+  Generated on Sat Aug  2 00:41:44 2025 by
   <a href="https://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
   0.9.37 (ruby-3.4.5).
 </div>
