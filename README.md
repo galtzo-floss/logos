@@ -68,7 +68,21 @@ The logos at the very top of this readme are a good example of usage. This is th
 
 ### appraisal-rb
 
+[![appraisal-rb Logo][🖼appraisal-rb-i]][🖼appraisal-rb]
+
+[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-128px.svg
+[🖼appraisal-rb]: https://logos.galtzo.com/
+
+```markdown
+[![appraisal-rb Logo][🖼appraisal-rb-i]][🖼appraisal-rb]
+
+[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-128px.svg
+[🖼appraisal-rb]: https://logos.galtzo.com/
+```
+
 - logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
 - square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
@@ -79,8 +93,23 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### appraisal2
 
+[![Appraisal2 Logo][🖼appraisal2-i]][🖼appraisal2]
+
+[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-128px.svg
+[🖼appraisal2]: https://logos.galtzo.com/
+
+```markdown
+[![Appraisal2 Logo][🖼appraisal2-i]][🖼appraisal2]
+
+[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-128px.svg
+[🖼appraisal2]: https://logos.galtzo.com/
+```
+
 - logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
 - social-preview-1280x640px.png
+- social-preview-1280x640px.svg
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -90,8 +119,36 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### galtzo-floss
 
+[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️galtzo] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️galtzo-no-bg]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️galtzo-blank]
+
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
+[🖼️galtzo]: https://logos.galtzo.com/
+[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
+[🖼️galtzo-blank]: https://logos.galtzo.com/
+[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
+[🖼️galtzo-no-bg]: https://logos.galtzo.com/
+
+```markdown
+[![Galtzo FLOSS Logo][🖼️galtzo-i]][🖼️galtzo] [![Galtzo FLOSS Logo - no background][🖼️galtzo-no-bg-i]][🖼️galtzo-no-bg]  [![Galtzo FLOSS Logo - no words][🖼️galtzo-blank-i]][🖼️galtzo-blank] 
+
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
+[🖼️galtzo]: https://logos.galtzo.com/
+[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
+[🖼️galtzo-blank]: https://logos.galtzo.com/
+[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
+[🖼️galtzo-no-bg]: https://logos.galtzo.com/
+```
+
 - logo.svg
 - logo-blank.svg
+- avatar-128px.svg
+- avatar-128px-blank.svg
+- avatar-128px-no-bg.svg
+- avatar-128px-template.svg
+- avatar-192px.svg
+- avatar-192px-blank.svg
+- avatar-192px-no-bg.svg
+- avatar-192px-template.svg
 - square-250px.png
 - square-250px-blank.png
 - square-500px.png
@@ -105,7 +162,20 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### activerecord-transactionable
 
+[![activerecord-transactionable Logo][🖼activerecord-transactionable-i]][🖼activerecord-transactionable]
+
+[🖼activerecord-transactionable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activerecord-transactionable/avatar-192px.svg
+[🖼activerecord-transactionable]: https://logos.galtzo.com/
+
+```markdown
+[![activerecord-transactionable Logo][🖼activerecord-transactionable-i]][🖼activerecord-transactionable]
+
+[🖼activerecord-transactionable-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activerecord-transactionable/avatar-192px.svg
+[🖼activerecord-transactionable]: https://logos.galtzo.com/
+```
+
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -119,6 +189,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 #### activesupport-broadcast_logger
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
