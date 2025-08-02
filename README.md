@@ -24,11 +24,20 @@ Logos original to this project are by [@Aboling0](https://github.com/Aboling0). 
 - Org logo directory structure: `<org name>` / `<logos>`
 - Project logo directory structure: `<org name>` / `<project name>` / `<logos>`
 - Logo Naming
-  - The main logo will be an SVG if one is available.
-    - It will be named `logo.svg`
-  - Rasterized logos are PNG if available, otherwise JPEG, and named according to size, shape, and intended usage. Possible base names start with:
+  - SVG (Vector)
+    - The main logo will be an SVG if one is available.
+      - It will be named `logo.svg`
+      - It will be 500px, if possible
     - `avatar` - 1:1 aspect ratio (square) and < 200px
+      - Normally there will be a 128px avatar for wordpress, and other sites that use the size
+      - and a 192px avatar for gitlab, and other sites that use the size.
+  - PNG (Rasterized)
+    - Rasterized logos are PNG if available, otherwise JPEG, and named according to size, shape, and intended usage. Possible base names start with:
+    - `avatar` - 1:1 aspect ratio (square) and < 200px
+      - Normally there will be a 128px avatar for wordpress, and other sites that use the size
+      - and a 192px avatar for gitlab, and other sites that use the size.
     - `square` - 1:1 aspect ratio (square) and >= 200px
+      - Normally there will be a 250px, and a 500px.
     - `social-preview` - Roughly 2:1 to 3:1 aspect ratio, and > 640px wide
     - `tall` - aspect ratio of <1:1 (vertically oblong)
 
