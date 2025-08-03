@@ -1,8 +1,8 @@
 [![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
 
-[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
-[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
-[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px.svg
+[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px-no-bg.svg
+[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px-blank.svg
 [🖼️logos]: https://logos.galtzo.com/
 
 # 🪵 logos
