@@ -1089,7 +1089,22 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 
 ### ruby-lang
 
-- logo.svg
+[![ruby-lang Logo, Yukihiro Matsumoto, Ruby Visual Identity Team, CC BY-SA 2.5][🖼️ruby-lang-i]][🖼️ruby-lang]
+
+[🖼️ruby-lang-i]: https://logos.galtzo.com/assets/images/ruby-lang/avatar-192px.svg
+[🖼️ruby-lang]: https://github.com/ruby-lang/
+
+```markdown
+[![ruby-lang Logo, Yukihiro Matsumoto, Ruby Visual Identity Team, CC BY-SA 2.5][🖼️ruby-lang-i]][🖼️ruby-lang]
+
+[🖼️ruby-lang-i]: https://logos.galtzo.com/assets/images/ruby-lang/avatar-192px.svg
+[🖼️ruby-lang]: https://github.com/ruby-lang
+```
+
+- logo.svg (resized)
+- avatar-128px.svg (resized)
+- avatar-192px.svg (resized)
+- avatar-198px.svg (original)
 - avatar-124px.jpeg (resized)
 
 https://www.ruby-lang.org/en/about/logo/
