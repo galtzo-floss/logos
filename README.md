@@ -1098,13 +1098,13 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 
 ### rspec
 
-[![rspec Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-i]][🖼️rspec]
+[![rspec Logo by Ninefold, a Macquarie Telecom company, CC BY-NC-SA 4.0][🖼️rspec-i]][🖼️rspec]
 
 [🖼️rspec-i]: https://logos.galtzo.com/assets/images/rspec/avatar-192px.svg
 [🖼️rspec]: https://github.com/rspec
 
 ```markdown
-[![rspec Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-i]][🖼️rspec]
+[![rspec Logo by Ninefold, a Macquarie Telecom company, CC BY-NC-SA 4.0][🖼️rspec-i]][🖼️rspec]
 
 [🖼️rspec-i]: https://logos.galtzo.com/assets/images/rspec/avatar-192px.svg
 [🖼️rspec]: https://github.com/rspec
@@ -1113,6 +1113,12 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
+
+Copyright © the RSpec development team
+
+Licensed under CC BY-NC-SA 4.0
+
+Official license of the rspec logo: https://github.com/rspec/rspec.github.io/blob/source/license.md
 
 ### ruby-lang
 
