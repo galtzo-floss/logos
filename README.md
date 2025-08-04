@@ -214,6 +214,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -239,6 +240,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -264,6 +266,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -289,6 +292,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -314,6 +318,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -339,6 +344,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -364,6 +370,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -389,6 +396,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -414,6 +422,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -439,6 +448,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -464,6 +474,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -489,6 +500,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -514,6 +526,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -539,6 +552,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -564,6 +578,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -589,6 +604,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -614,6 +630,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -639,6 +656,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -664,6 +682,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -689,6 +708,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -714,6 +734,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -739,6 +760,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -764,6 +786,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -789,6 +812,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -814,6 +838,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -839,6 +864,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -864,6 +890,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -889,6 +916,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -914,6 +942,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -939,6 +968,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -964,6 +994,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -989,6 +1020,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -1014,6 +1046,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ```
 
 - logo.svg
+- avatar-128px.svg
 - avatar-192px.svg
 - square-250px.png
 - square-500px.png
@@ -1061,6 +1094,25 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 > Logo Guidelines: The OpenID logo is to be displayed in its entirety on either a solid light or dark background—avoid mid-tones or strongly colored backgrounds. The logo should not be displayed in parts, with color variations, or with other elements superimposed on top of the logo. The stylized I+D symbol should not be modified or distorted.
 
 ### resque
+
+
+### rspec
+
+[![rspec Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-i]][🖼️rspec]
+
+[🖼️rspec-i]: https://logos.galtzo.com/assets/images/rspec/avatar-192px.svg
+[🖼️rspec]: https://github.com/rspec
+
+```markdown
+[![rspec Logo by Aboling0, CC BY-SA 4.0][🖼️rspec-i]][🖼️rspec]
+
+[🖼️rspec-i]: https://logos.galtzo.com/assets/images/rspec/avatar-192px.svg
+[🖼️rspec]: https://github.com/rspec
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
 
 ### ruby-lang
 
