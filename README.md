@@ -949,31 +949,6 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-#### stackable_flash
-
-[![stackable_flash Logo by Aboling0, CC BY-SA 4.0][🖼️stackable_flash-i]][🖼️stackable_flash]
-
-[🖼️stackable_flash-i]: https://logos.galtzo.com/assets/images/galtzo-floss/stackable_flash/avatar-192px.svg
-[🖼️stackable_flash]: https://github.com/galtzo-floss/stackable_flash
-
-```markdown
-[![stackable_flash Logo by Aboling0, CC BY-SA 4.0][🖼️stackable_flash-i]][🖼️stackable_flash]
-
-[🖼️stackable_flash-i]: https://logos.galtzo.com/assets/images/galtzo-floss/stackable_flash/avatar-192px.svg
-[🖼️stackable_flash]: https://github.com/galtzo-floss/stackable_flash
-```
-
-- logo.svg
-- avatar-192px.svg
-- square-250px.png
-- square-500px.png
-
-© 2025 by @Aboling0 (https://github.com/Aboling0)
-
-Licensed under CC BY-SA 4.0
-
-https://creativecommons.org/licenses/by-sa/4.0/
-
 #### status_tag
 
 [![status_tag Logo by Aboling0, CC BY-SA 4.0][🖼️status_tag-i]][🖼️status_tag]
