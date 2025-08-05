@@ -979,6 +979,32 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### silent_stream
+
+[![silent_stream Logo by Aboling0, CC BY-SA 4.0][🖼️silent_stream-i]][🖼️silent_stream]
+
+[🖼️silent_stream-i]: https://logos.galtzo.com/assets/images/galtzo-floss/silent_stream/avatar-192px.svg
+[🖼️silent_stream]: https://github.com/galtzo-floss/silent_stream
+
+```markdown
+[![silent_stream Logo by Aboling0, CC BY-SA 4.0][🖼️silent_stream-i]][🖼️silent_stream]
+
+[🖼️silent_stream-i]: https://logos.galtzo.com/assets/images/galtzo-floss/silent_stream/avatar-192px.svg
+[🖼️silent_stream]: https://github.com/galtzo-floss/silent_stream
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- square-250px.png
+- square-500px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### status_tag
 
 [![status_tag Logo by Aboling0, CC BY-SA 4.0][🖼️status_tag-i]][🖼️status_tag]
