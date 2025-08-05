@@ -693,6 +693,32 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### json_schemer-fuzz
+
+[![json_schemer-fuzz Logo by Aboling0, CC BY-SA 4.0][🖼️json_schemer-fuzz-i]][🖼️json_schemer-fuzz]
+
+[🖼️json_schemer-fuzz-i]: https://json_schemer-fuzz.galtzo.com/assets/images/galtzo-floss/json_schemer-fuzz/avatar-192px.svg
+[🖼️json_schemer-fuzz]: https://github.com/galtzo-floss/json_schemer-fuzz
+
+```markdown
+[![json_schemer-fuzz Logo by Aboling0, CC BY-SA 4.0][🖼️json_schemer-fuzz-i]][🖼️json_schemer-fuzz]
+
+[🖼️json_schemer-fuzz-i]: https://json_schemer-fuzz.galtzo.com/assets/images/galtzo-floss/json_schemer-fuzz/avatar-192px.svg
+[🖼️json_schemer-fuzz]: https://github.com/galtzo-floss/json_schemer-fuzz
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- square-250px.png
+- square-500px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### logos
 
 [![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos]
