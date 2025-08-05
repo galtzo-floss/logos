@@ -74,7 +74,9 @@ The logos at the very top of this readme are a good example of usage. This is th
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
-- square-500px.png
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -99,6 +101,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
 - social-preview-1280x640px.png
 - social-preview-1280x640px.svg
 
