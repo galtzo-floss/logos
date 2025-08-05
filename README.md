@@ -310,7 +310,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [![activesupport-tagged_logging Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-tagged_logging-i]][🖼️activesupport-tagged_logging]
 
 [🖼️activesupport-tagged_logging-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activesupport-tagged_logging/avatar-192px.svg
-[🖼️activesupport-tagged_logging]: https://github.com/galtzo-floss/
+[🖼️activesupport-tagged_logging]: https://github.com/galtzo-floss/activesupport-tagged_logging
 
 ```markdown
 [![activesupport-tagged_logging Logo by Aboling0, CC BY-SA 4.0][🖼️activesupport-tagged_logging-i]][🖼️activesupport-tagged_logging]
