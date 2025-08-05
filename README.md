@@ -128,6 +128,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 - logo.svg
 - logo-blank.svg
+- logo-no-bg.svg
+- logo-template.svg
 - avatar-128px.svg
 - avatar-128px-blank.svg
 - avatar-128px-no-bg.svg
@@ -136,10 +138,20 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-192px-blank.svg
 - avatar-192px-no-bg.svg
 - avatar-192px-template.svg
+- logo.png
+- logo-blank.png
+- logo-no-bg.png
+- logo-template.png
+- avatar-128px.png
+- avatar-128px-blank.png
+- avatar-128px-no-bg.png
+- avatar-128px-template.png
+- avatar-192px.png
+- avatar-192px-blank.png
+- avatar-192px-no-bg.png
+- avatar-192px-template.png
 - square-250px.png
 - square-250px-blank.png
-- square-500px.png
-- square-500px-blank.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
