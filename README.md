@@ -667,18 +667,18 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-#### month-serializer
+#### logos
 
-[![include_with_respect Logo by Aboling0, CC BY-SA 4.0][🖼️include_with_respect-i]][🖼️include_with_respect]
+[![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos]
 
-[🖼️include_with_respect-i]: https://logos.galtzo.com/assets/images/galtzo-floss/include_with_respect/avatar-192px.svg
-[🖼️include_with_respect]: https://github.com/galtzo-floss/include_with_respect
+[🖼️logos-i]: https://logos.galtzo.com/assets/images/galtzo-floss/logos/avatar-192px.svg
+[🖼️logos]: https://github.com/galtzo-floss/logos
 
 ```markdown
-[![include_with_respect Logo by Aboling0, CC BY-SA 4.0][🖼️include_with_respect-i]][🖼️include_with_respect]
+[![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos]
 
-[🖼️include_with_respect-i]: https://logos.galtzo.com/assets/images/galtzo-floss/include_with_respect/avatar-192px.svg
-[🖼️include_with_respect]: https://github.com/galtzo-floss/include_with_respect
+[🖼️logos-i]: https://logos.galtzo.com/assets/images/galtzo-floss/logos/avatar-192px.svg
+[🖼️logos]: https://github.com/galtzo-floss/logos
 ```
 
 - logo.svg
