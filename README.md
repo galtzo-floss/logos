@@ -173,6 +173,32 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### activerecord-tablefree
+
+[![activerecord-tablefree Logo by Aboling0, CC BY-SA 4.0][🖼️activerecord-tablefree-i]][🖼️activerecord-tablefree]
+
+[🖼️activerecord-tablefree-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activerecord-tablefree/avatar-192px.svg
+[🖼️activerecord-tablefree]: https://github.com/galtzo-floss/activerecord-tablefree
+
+```markdown
+[![activerecord-tablefree Logo by Aboling0, CC BY-SA 4.0][🖼️activerecord-tablefree-i]][🖼️activerecord-tablefree]
+
+[🖼️activerecord-tablefree-i]: https://logos.galtzo.com/assets/images/galtzo-floss/activerecord-tablefree/avatar-192px.svg
+[🖼️activerecord-tablefree]: https://github.com/galtzo-floss/activerecord-tablefree
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- square-250px.png
+- square-500px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### activerecord-transactionable
 
 [![activerecord-transactionable Logo by Aboling0, CC BY-SA 4.0][🖼️activerecord-transactionable-i]][🖼️activerecord-transactionable]
