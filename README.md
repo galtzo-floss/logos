@@ -719,6 +719,32 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### letter_group
+
+[![letter_group Logo by Aboling0, CC BY-SA 4.0][🖼️letter_group-i]][🖼️letter_group]
+
+[🖼️letter_group-i]: https://letter_group.galtzo.com/assets/images/galtzo-floss/letter_group/avatar-192px.svg
+[🖼️letter_group]: https://github.com/galtzo-floss/letter_group
+
+```markdown
+[![letter_group Logo by Aboling0, CC BY-SA 4.0][🖼️letter_group-i]][🖼️letter_group]
+
+[🖼️letter_group-i]: https://letter_group.galtzo.com/assets/images/galtzo-floss/letter_group/avatar-192px.svg
+[🖼️letter_group]: https://github.com/galtzo-floss/letter_group
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- square-250px.png
+- square-500px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### logos
 
 [![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos]
