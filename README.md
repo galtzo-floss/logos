@@ -33,7 +33,7 @@ Logos original to this project are by [@Aboling0](https://github.com/Aboling0). 
       - Normally there will be a 250px, and a 500px.
   - PNG (Rasterized)
     - Rasterized logos are PNG if available, otherwise JPEG, and named according to size, shape, and intended usage. Possible base names start with:
-    - [ ] (coming soon) `avatar` - 1:1 aspect ratio (square) and < 200px
+    - [x] (coming soon) `avatar` - 1:1 aspect ratio (square) and < 200px
       - Normally there will be a 128px avatar for wordpress, and other sites that use the size
       - and a 192px avatar for gitlab, and other sites that use the size.
     - [x] `square` - 1:1 aspect ratio (square) and >= 200px
@@ -181,6 +181,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
 - square-250px.png
 - square-500px.png
 
