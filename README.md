@@ -467,8 +467,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
-- square-250px.png
-- square-500px.png
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
