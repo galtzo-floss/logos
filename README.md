@@ -1441,9 +1441,20 @@ https://creativecommons.org/licenses/by-sa/2.5
 [🖼️ruby-openid-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px-blank.svg
 [🖼️ruby-openid]: https://github.com/ruby-openid
 ```
-
-- avatar-124px.png
+- avatar-124px-blank.svg
+- avatar-128px.svg
+- avatar-128px-blank.svg
+- avatar-192px.svg
+- avatar-192px-blank.svg
+- logo.svg
+- logo-blank.svg
+- avatar-124px-blank.png
+- avatar-128px.png
+- avatar-128px-blank.png
 - avatar-192px.png
+- avatar-192px-blank.png
+- logo.png
+- logo-blank.png
 - square-515px.png
 - square-1030px.png
 
