@@ -693,6 +693,32 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### month-serializer
+
+[![month-serializer Logo by Aboling0, CC BY-SA 4.0][🖼️month-serializer-i]][🖼️month-serializer]
+
+[🖼️month-serializer-i]: https://logos.galtzo.com/assets/images/galtzo-floss/month-serializer/avatar-192px.svg
+[🖼️month-serializer]: https://github.com/galtzo-floss/month-serializer
+
+```markdown
+[![month-serializer Logo by Aboling0, CC BY-SA 4.0][🖼️month-serializer-i]][🖼️month-serializer]
+
+[🖼️month-serializer-i]: https://logos.galtzo.com/assets/images/galtzo-floss/month-serializer/avatar-192px.svg
+[🖼️month-serializer]: https://github.com/galtzo-floss/month-serializer
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- square-250px.png
+- square-500px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### pretty_feed
 
 [![pretty_feed Logo by Aboling0, CC BY-SA 4.0][🖼️pretty_feed-i]][🖼️pretty_feed]
@@ -1095,6 +1121,32 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [🖼️simple_column-scopes-i]: https://logos.galtzo.com/assets/images/galtzo-floss/simple_column-scopes/avatar-192px.svg
 [🖼️simple_column-scopes]: https://github.com/galtzo-floss/simple_column-scopes
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- square-250px.png
+- square-500px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+#### spyke-connection_lambda
+
+[![spyke-connection_lambda Logo by Aboling0, CC BY-SA 4.0][🖼️spyke-connection_lambda-i]][🖼️spyke-connection_lambda]
+
+[🖼️spyke-connection_lambda-i]: https://logos.galtzo.com/assets/images/galtzo-floss/spyke-connection_lambda/avatar-192px.svg
+[🖼️spyke-connection_lambda]: https://github.com/galtzo-floss/spyke-connection_lambda
+
+```markdown
+[![spyke-connection_lambda Logo by Aboling0, CC BY-SA 4.0][🖼️spyke-connection_lambda-i]][🖼️spyke-connection_lambda]
+
+[🖼️spyke-connection_lambda-i]: https://logos.galtzo.com/assets/images/galtzo-floss/spyke-connection_lambda/avatar-192px.svg
+[🖼️spyke-connection_lambda]: https://github.com/galtzo-floss/spyke-connection_lambda
 ```
 
 - logo.svg
