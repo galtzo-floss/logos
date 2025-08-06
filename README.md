@@ -1,6 +1,9 @@
-[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-discord] [![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px.svg
+[🖼️galtzo-discord]: https://discord.gg/3qme4XHNKN
+[🖼️logos-i]: https://logos.galtzo.com/assets/images/galtzo-floss/logos/avatar-192px.svg
+[🖼️logos]: https://github.com/galtzo-floss/logos
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px-no-bg.svg
 [🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px-blank.svg
 [🖼️logos]: https://logos.galtzo.com/
@@ -48,13 +51,15 @@ Feel free to submit PRs to add more logos, or update the license and copyright i
 The logos at the very top of this readme are a good example of usage. This is the markdown code that generates them:
 
 ```markdown
-[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos]  [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-discord] [![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️logos] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️logos]
 
-[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
-[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
-[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px.svg
+[🖼️galtzo-discord]: https://discord.gg/3qme4XHNKN
+[🖼️logos-i]: https://logos.galtzo.com/assets/images/galtzo-floss/logos/avatar-192px.svg
+[🖼️logos]: https://github.com/galtzo-floss/logos
+[🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px-no-bg.svg
+[🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px-blank.svg
 [🖼️logos]: https://logos.galtzo.com/
-
 ```
 
 ### appraisal-rb
