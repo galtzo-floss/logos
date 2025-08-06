@@ -120,9 +120,10 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### galtzo-floss
 
-[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️galtzo-floss]
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-discord] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️galtzo-floss]
 
 [🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px.svg
+[🖼️galtzo-discord]: https://discord.gg/3qme4XHNKN
 [🖼️galtzo-no-bg-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-no-bg.svg
 [🖼️galtzo-blank-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg
 [🖼️galtzo-floss]: https://github.com/galtzo-floss
