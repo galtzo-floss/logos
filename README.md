@@ -1465,6 +1465,42 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### kettle-rb
 
+### oauth
+
+[![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-i]][🖼️oauth] [![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-blank-i]][🖼️oauth]
+
+[🖼️oauth-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px.svg
+[🖼️oauth-blank-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px-blank.svg
+[🖼️oauth]: https://oauth.net/
+
+```markdown
+[![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-i]][🖼️oauth] [![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-blank-i]][🖼️oauth]
+
+[🖼️oauth-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px.svg
+[🖼️oauth-blank-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px-blank.svg
+[🖼️oauth]: https://oauth.net/
+```
+
+- logo-original.svg (original, but not square aspect ratio)
+- logo-square.svg (almost squared aspect ratio, 598 x 600 pixels, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oauth_logo.svg))
+- logo.svg (resized to 500px)
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.svg
+- avatar-192px.svg
+
+#### Alternate Versions
+
+- logo-discovery.png
+- logo-no-counter.png
+- logo-shiny.png
+
+http://wiki.oauth.net/Logo
+
+All versions are by Chris Messina, CC BY-SA 3.0
+
+https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 ### omniauth
 
@@ -1554,6 +1590,7 @@ https://creativecommons.org/licenses/by-sa/2.5
 
 ### ruby-oauth
 
+See [oauth](#oauth).
 
 ### ruby-openid
 
