@@ -1504,7 +1504,7 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 [![oauth2 Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth2-i]][🖼️oauth2]
 
-[🖼️oauth2-i]: https://logos.galtzo.com/assets/images/oauth2/avatar-192px.svg
+[🖼️oauth2-i]: https://logos.galtzo.com/assets/images/oauth/oauth2/avatar-192px.svg
 [🖼️oauth2]: https://oauth.net/
 
 ```markdown
