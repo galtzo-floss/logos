@@ -1467,17 +1467,15 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### oauth
 
-[![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-i]][🖼️oauth] [![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-blank-i]][🖼️oauth]
+[![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-i]][🖼️oauth]
 
 [🖼️oauth-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px.svg
-[🖼️oauth-blank-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px-blank.svg
 [🖼️oauth]: https://oauth.net/
 
 ```markdown
-[![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-i]][🖼️oauth] [![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-blank-i]][🖼️oauth]
+[![oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth-i]][🖼️oauth]
 
 [🖼️oauth-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px.svg
-[🖼️oauth-blank-i]: https://logos.galtzo.com/assets/images/oauth/avatar-192px-blank.svg
 [🖼️oauth]: https://oauth.net/
 ```
 
@@ -1499,6 +1497,36 @@ https://creativecommons.org/licenses/by-sa/4.0/
 http://wiki.oauth.net/Logo
 
 All versions are by Chris Messina, CC BY-SA 3.0
+
+https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+#### oauth2
+
+[![oauth2 Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth2-i]][🖼️oauth2]
+
+[🖼️oauth2-i]: https://logos.galtzo.com/assets/images/oauth2/avatar-192px.svg
+[🖼️oauth2]: https://oauth.net/
+
+```markdown
+[![oauth2 Logo by Chris Messina, CC BY-SA 3.0][🖼️oauth2-i]][🖼️oauth2]
+
+[🖼️oauth2-i]: https://logos.galtzo.com/assets/images/oauth/oauth2/avatar-192px.svg
+[🖼️oauth2]: https://oauth.net/
+```
+
+- logo-original.svg (original, but not square aspect ratio)
+- logo-square.svg (squared aspect ratio, 260px)
+- logo.svg (resized to 500px)
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.svg
+- avatar-192px.svg
+
+Wasn't able to find an official source, except for `avatar-124px.png`, which appears on [oauth.net](https://oauth.net/images/oauth-2-sm.png).
+Assuming the copyright and license of the oauth2 logo are the same as the logos for OAuth.
+
+Assumed to be by Chris Messina, CC BY-SA 3.0
 
 https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
@@ -1591,6 +1619,7 @@ https://creativecommons.org/licenses/by-sa/2.5
 ### ruby-oauth
 
 See [oauth](#oauth).
+See [oauth2](#oauth2).
 
 ### ruby-openid
 
