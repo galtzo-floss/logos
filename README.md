@@ -66,22 +66,24 @@ The logos at the very top of this readme are a good example of usage. This is th
 
 [![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼appraisal-rb-i]][🖼appraisal-rb]
 
-[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-128px.svg
+[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-192px.svg
 [🖼appraisal-rb]: https://github.com/appraisal-rb/
 
 ```markdown
 [![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼appraisal-rb-i]][🖼appraisal-rb]
 
-[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-128px.svg
+[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-192px.svg
 [🖼appraisal-rb]: https://github.com/appraisal-rb/
 ```
 
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
+- avatar-198px.svg
 - logo.png
 - avatar-128px.png
 - avatar-192px.png
+- avatar-198px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -93,22 +95,24 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼appraisal2-i]][🖼appraisal2]
 
-[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-128px.svg
+[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-192px.svg
 [🖼appraisal2]: https://github.com/appraisal-rb/appraisal2
 
 ```markdown
 [![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼appraisal2-i]][🖼appraisal2]
 
-[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-128px.svg
+[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-192px.svg
 [🖼appraisal2]: https://github.com/appraisal-rb/appraisal2
 ```
 
 - logo.svg
 - avatar-128px.svg
 - avatar-192px.svg
+- avatar-198px.svg
 - logo.png
 - avatar-128px.png
 - avatar-192px.png
+- avatar-198px.png
 - social-preview-1280x640px.png
 - social-preview-1280x640px.svg
 
