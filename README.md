@@ -1759,13 +1759,13 @@ Having arrived at the bottom of the page, please endure a final supplication.
 The primary maintainer of this project, Peter Boling, wants
 Ruby to be a great place for people to solve problems, big and small.
 Please consider supporting his efforts via the giant yellow link below,
-or one of smaller ones, depending on button size preference.
+or one of the smaller ones, depending on button size preference.
 
 [![Buy me a latte][🖇buyme-img]][🖇buyme]
 
 [![Liberapay Goal Progress][⛳liberapay-img]][⛳liberapay] [![Sponsor Me on Github][🖇sponsor-img]][🖇sponsor] [![Donate on Polar][🖇polar-img]][🖇polar] [![Donate to my FLOSS or refugee efforts at ko-fi.com][🖇kofi-img]][🖇kofi] [![Donate to my FLOSS or refugee efforts using Patreon][🖇patreon-img]][🖇patreon]
 
-P.S. If you need help️, or want to say thanks, 👇 Join the Discord.
+P.S. If you need help️ or want to say thanks, 👇 Join the Discord.
 
 [![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite]
 
