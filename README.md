@@ -64,16 +64,16 @@ The logos at the very top of this readme are a good example of usage. This is th
 
 ### appraisal-rb
 
-[![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼appraisal-rb-i]][🖼appraisal-rb]
+[![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼️appraisal-rb-i]][🖼️appraisal-rb]
 
-[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-192px.svg
-[🖼appraisal-rb]: https://github.com/appraisal-rb/
+[🖼️appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-192px.svg
+[🖼️appraisal-rb]: https://github.com/appraisal-rb/
 
 ```markdown
-[![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼appraisal-rb-i]][🖼appraisal-rb]
+[![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼️appraisal-rb-i]][🖼️appraisal-rb]
 
-[🖼appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-192px.svg
-[🖼appraisal-rb]: https://github.com/appraisal-rb/
+[🖼️appraisal-rb-i]: https://logos.galtzo.com/assets/images/appraisal-rb/avatar-192px.svg
+[🖼️appraisal-rb]: https://github.com/appraisal-rb/
 ```
 
 - logo.svg
@@ -93,16 +93,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### appraisal2
 
-[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼appraisal2-i]][🖼appraisal2]
+[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼️appraisal2-i]][🖼️appraisal2]
 
-[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-192px.svg
-[🖼appraisal2]: https://github.com/appraisal-rb/appraisal2
+[🖼️appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-192px.svg
+[🖼️appraisal2]: https://github.com/appraisal-rb/appraisal2
 
 ```markdown
-[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼appraisal2-i]][🖼appraisal2]
+[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼️appraisal2-i]][🖼️appraisal2]
 
-[🖼appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-192px.svg
-[🖼appraisal2]: https://github.com/appraisal-rb/appraisal2
+[🖼️appraisal2-i]: https://logos.galtzo.com/assets/images/appraisal-rb/appraisal2/avatar-192px.svg
+[🖼️appraisal2]: https://github.com/appraisal-rb/appraisal2
 ```
 
 - logo.svg
