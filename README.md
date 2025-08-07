@@ -1731,11 +1731,27 @@ The rest of the assets, which are in subdirectories, each have a distinct licens
         <a href="https://discord.gg/3qme4XHNKN">
             Galtzo.com
             <picture>
-              <img src="https://github.com/galtzo-floss/logos/raw/main/galtzo-floss/logo-blank.svg?raw=true" alt="Galtzo.com Logo by Aboling0, CC BY-SA 4.0" width="24">
+              <img src="https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg" alt="Galtzo.com Logo (wordless) by Aboling0, CC BY-SA 4.0" width="24">
             </picture>
         </a>, and logos contributors
     </li>
 </ul>
+
+Want the code for this copyright blurb?
+
+```html
+<ul>
+    <li>
+        Copyright (c) 2025 Peter H. Boling, of
+        <a href="https://discord.gg/3qme4XHNKN">
+            Galtzo.com
+            <picture>
+              <img src="https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg" alt="Galtzo.com Logo (wordless) by Aboling0, CC BY-SA 4.0" width="24">
+            </picture>
+        </a>, and logos contributors
+    </li>
+</ul>
+```
 
 ## 🤑 One more thing
 
