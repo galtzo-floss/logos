@@ -648,6 +648,33 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### floss_funding
+
+[![floss_funding Logo by Aboling0, CC BY-SA 4.0][🖼️floss_funding-i]][🖼️floss_funding]
+
+[🖼️floss_funding-i]: https://logos.galtzo.com/assets/images/galtzo-floss/floss_funding/avatar-192px.svg
+[🖼️floss_funding]: https://github.com/galtzo-floss/floss_funding
+
+```markdown
+[![floss_funding Logo by Aboling0, CC BY-SA 4.0][🖼️floss_funding-i]][🖼️floss_funding]
+
+[🖼️floss_funding-i]: https://logos.galtzo.com/assets/images/galtzo-floss/floss_funding/avatar-192px.svg
+[🖼️floss_funding]: https://github.com/galtzo-floss/floss_funding
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### gem_bench
 
 [![gem_bench Logo by Aboling0, CC BY-SA 4.0][🖼️gem_bench-i]][🖼️gem_bench]
