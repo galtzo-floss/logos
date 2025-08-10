@@ -250,7 +250,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -279,7 +278,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -308,7 +306,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -337,7 +334,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -366,7 +362,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -395,7 +390,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -424,7 +418,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -453,7 +446,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -509,7 +501,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -538,7 +529,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -567,7 +557,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -596,7 +585,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -625,7 +613,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -654,7 +641,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -683,7 +669,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -712,7 +697,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -741,7 +725,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -770,7 +753,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -799,7 +781,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -828,7 +809,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -857,7 +837,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -886,7 +865,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -915,7 +893,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -944,7 +921,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -973,7 +949,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1002,7 +977,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1031,7 +1005,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1060,7 +1033,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1089,7 +1061,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1118,7 +1089,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1147,7 +1117,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1176,7 +1145,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1205,7 +1173,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1234,7 +1201,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1263,7 +1229,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1292,7 +1257,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1321,7 +1285,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1350,7 +1313,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1379,7 +1341,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1408,7 +1369,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1437,7 +1397,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1466,7 +1425,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 - square-250px.png
-- square-500px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1575,7 +1533,6 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 > Logo Guidelines: The OpenID logo is to be displayed in its entirety on either a solid light or dark background—avoid mid-tones or strongly colored backgrounds. The logo should not be displayed in parts, with color variations, or with other elements superimposed on top of the logo. The stylized I+D symbol should not be modified or distorted.
 
 ### resque
-
 
 ### rspec
 
