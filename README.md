@@ -1590,13 +1590,13 @@ Official license of the rspec logo: https://github.com/rspec/rspec.github.io/blo
 [![ruby-lang Logo, Yukihiro Matsumoto, Ruby Visual Identity Team, CC BY-SA 2.5][🖼️ruby-lang-i]][🖼️ruby-lang]
 
 [🖼️ruby-lang-i]: https://logos.galtzo.com/assets/images/ruby-lang/avatar-192px.svg
-[🖼️ruby-lang]: https://github.com/ruby-lang/
+[🖼️ruby-lang]: https://www.ruby-lang.org/
 
 ```markdown
 [![ruby-lang Logo, Yukihiro Matsumoto, Ruby Visual Identity Team, CC BY-SA 2.5][🖼️ruby-lang-i]][🖼️ruby-lang]
 
 [🖼️ruby-lang-i]: https://logos.galtzo.com/assets/images/ruby-lang/avatar-192px.svg
-[🖼️ruby-lang]: https://github.com/ruby-lang
+[🖼️ruby-lang]: https://www.ruby-lang.org/
 ```
 
 - logo.svg (resized)
