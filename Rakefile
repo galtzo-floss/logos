@@ -31,8 +31,6 @@
 # rake test                             # Run tests / run spec task with test task
 # rake yard                             # Generate YARD Documentation
 
-require "bundler/gem_tasks"
-
 defaults = []
 
 is_ci = ENV.fetch("CI", "false").casecmp("true") == 0

@@ -843,6 +843,34 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### library_tree
+
+[![library_tree Logo by Aboling0, CC BY-SA 4.0][🖼️library_tree-i]][🖼️library_tree]
+
+[🖼️library_tree-i]: https://library_tree.galtzo.com/assets/images/galtzo-floss/library_tree/avatar-192px.svg
+[🖼️library_tree]: https://github.com/galtzo-floss/library_tree
+
+```markdown
+[![library_tree Logo by Aboling0, CC BY-SA 4.0][🖼️library_tree-i]][🖼️library_tree]
+
+[🖼️library_tree-i]: https://library_tree.galtzo.com/assets/images/galtzo-floss/library_tree/avatar-192px.svg
+[🖼️library_tree]: https://github.com/galtzo-floss/library_tree
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+- square-250px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### logos (this project!)
 
 [![logos Logo by Aboling0, CC BY-SA 4.0][🖼️logos-i]][🖼️logos]
