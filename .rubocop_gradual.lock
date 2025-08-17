@@ -1,5 +1,5 @@
 {
-  "Rakefile:1345131530": [
-    [100, 1, 16, "Rake/DuplicateTask: Task `test` is defined at both Rakefile:94 and Rakefile:100.", 850263259]
+  "Rakefile:2563229915": [
+    [67, 5, 15, "Rake/Desc: Describe the task with `desc` method.", 842824456]
   ]
 }

@@ -1487,6 +1487,33 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### timecop-rspec
+
+[![timecop-rspec Logo by Aboling0, CC BY-SA 4.0][🖼️timecop-rspec-i]][🖼️timecop-rspec]
+
+[🖼️timecop-rspec-i]: https://logos.galtzo.com/assets/images/galtzo-floss/timecop-rspec/avatar-192px.svg
+[🖼️timecop-rspec]: https://github.com/galtzo-floss/timecop-rspec
+
+```markdown
+[![timecop-rspec Logo by Aboling0, CC BY-SA 4.0][🖼️timecop-rspec-i]][🖼️timecop-rspec]
+
+[🖼️timecop-rspec-i]: https://logos.galtzo.com/assets/images/galtzo-floss/timecop-rspec/avatar-192px.svg
+[🖼️timecop-rspec]: https://github.com/galtzo-floss/timecop-rspec
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ### kettle-rb
 
 [![kettle-rb Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-rb-i]][🖼️kettle-rb]
