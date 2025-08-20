@@ -1518,13 +1518,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![The Gitmoji Logo by Carlos Cuesta, MIT][🖼️gitmoji-i]][🖼️gitmoji]
 
-[🖼️gitmoji-i]: https://logos.galtzo.com/assets/images/gitmoji/avatar-120px.svg
+[🖼️gitmoji-i]: https://logos.galtzo.com/assets/images/gitmoji/avatar-120px.png
 [🖼️gitmoji]: https://github.com/carloscuesta/gitmoji
 
 ```markdown
 [![The Gitmoji Logo by Carlos Cuesta, MIT][🖼️gitmoji-i]][🖼️gitmoji]
 
-[🖼️gitmoji-i]: https://logos.galtzo.com/assets/images/gitmoji/avatar-120px.svg
+[🖼️gitmoji-i]: https://logos.galtzo.com/assets/images/gitmoji/avatar-120px.png
 [🖼️gitmoji]: https://github.com/carloscuesta/gitmoji
 ```
 
@@ -1695,13 +1695,13 @@ The following were the guidelines for OpenID logo as of June 8, 2025, as display
 
 [![The Regular Expression OOjs UI Icon by GOJU, MIT via Wikimedia Commons][🖼️regex-i]][🖼️regex]
 
-[🖼️regex-i]: https://logos.galtzo.com/assets/images/regex/avatar-120px.svg
+[🖼️regex-i]: https://logos.galtzo.com/assets/images/regex/avatar-120px.png
 [🖼️regex]: https://rubular.com/
 
 ```markdown
 [![The Regular Expression OOjs UI Icon by GOJU, MIT via Wikimedia Commons][🖼️regex-i]][🖼️regex]
 
-[🖼️regex-i]: https://logos.galtzo.com/assets/images/regex/avatar-120px.svg
+[🖼️regex-i]: https://logos.galtzo.com/assets/images/regex/avatar-120px.png
 [🖼️regex]: https://rubular.com/
 ```
 
