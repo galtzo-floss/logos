@@ -10,9 +10,9 @@
 
 # 🪵 logos
 
-[![License: MIT][📄license-img]][📄license-ref] [![Deps Locked][🚎13-🔒️-wfi]][🚎13-🔒️-wf] [![📄ilo-declaration-img]][📄ilo-declaration] [![Contributor Covenant 2.1][🪇conduct-img]][🪇conduct] [![Gitmoji Commits][📌gitmoji-img]][📌gitmoji] [![Follow Me on LinkedIn][💖🖇linkedin-img]][💖🖇linkedin] [![Follow Me on Ruby.Social][💖🐘ruby-mast-img]][💖🐘ruby-mast] [![Follow Me on Bluesky][💖🦋bluesky-img]][💖🦋bluesky] [![Contact BDFL][🚂bdfl-contact-img]][🚂bdfl-contact] [![My technical writing][💖💁🏼‍♂️devto-img]][💖💁🏼‍♂️devto] [![Find Me on WellFound:][💖✌️wellfound-img]][💖✌️wellfound] [![Find Me on CrunchBase][💖💲crunchbase-img]][💖💲crunchbase] [![My LinkTree][💖🌳linktree-img]][💖🌳linktree] [![More About Me][💖💁🏼‍♂️aboutme-img]][💖💁🏼‍♂️aboutme] [🧊][💖🧊berg] [🐙][💖🐙hub] [🛖][💖🛖hut] [🧪][💖🧪lab]
+[![License: MIT][📄license-img]][📄license-ref] [![Deps Locked][🚎13-🔒️-wfi]][🚎13-🔒️-wf] [![📄ilo-declaration-img]][📄ilo-declaration] [![Contributor Covenant 2.1][🪇conduct-img]][🪇conduct] [![Gitmoji Commits][📌gitmoji-img]][📌gitmoji] [![Follow Me on LinkedIn][💖🖇linkedin-img]][💖🖇linkedin] [![Follow Me on Ruby.Social][💖🐘ruby-mast-img]][💖🐘ruby-mast] [![Follow Me on Bluesky][💖🦋bluesky-img]][💖🦋bluesky] [![Contact Maintainer][🚂bdfl-contact-img]][🚂bdfl-contact] [![My technical writing][💖💁🏼‍♂️devto-img]][💖💁🏼‍♂️devto] [![Find Me on WellFound:][💖✌️wellfound-img]][💖✌️wellfound] [![Find Me on CrunchBase][💖💲crunchbase-img]][💖💲crunchbase] [![My LinkTree][💖🌳linktree-img]][💖🌳linktree] [![More About Me][💖💁🏼‍♂️aboutme-img]][💖💁🏼‍♂️aboutme] [🧊][💖🧊berg] [🐙][💖🐙hub] [🛖][💖🛖hut] [🧪][💖🧪lab]
 
-[![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite] [![Get help from me on Upwork][👨🏼‍🏫expsup-upwork-img]][👨🏼‍🏫expsup-upwork] [![Get help from me on Codementor][👨🏼‍🏫expsup-codementor-img]][👨🏼‍🏫expsup-codementor] [![YARD on Galtzo.com][📜docs-head-rd-img]][🚎yard-head] [![BDFL Blog][🚂bdfl-blog-img]][🚂bdfl-blog]
+[![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite] [![Get help from me on Upwork][👨🏼‍🏫expsup-upwork-img]][👨🏼‍🏫expsup-upwork] [![Get help from me on Codementor][👨🏼‍🏫expsup-codementor-img]][👨🏼‍🏫expsup-codementor] [![YARD on Galtzo.com][📜docs-head-rd-img]][🚎yard-head] [![Maintainer Blog][🚂bdfl-blog-img]][🚂bdfl-blog]
 
 An effort to normalize and standardize logos used across various open source projects, giving proper credit to the creators while documenting the license and copyright of each.
 
@@ -1514,6 +1514,30 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+### gitmoji
+
+[![The Gitmoji Logo by Carlos Cuesta, MIT][🖼️gitmoji-i]][🖼️gitmoji]
+
+[🖼️gitmoji-i]: https://logos.galtzo.com/assets/images/gitmoji/avatar-120px.svg
+[🖼️gitmoji]: https://github.com/carloscuesta/gitmoji
+
+```markdown
+[![The Gitmoji Logo by Carlos Cuesta, MIT][🖼️gitmoji-i]][🖼️gitmoji]
+
+[🖼️gitmoji-i]: https://logos.galtzo.com/assets/images/gitmoji/avatar-120px.svg
+[🖼️gitmoji]: https://github.com/carloscuesta/gitmoji
+```
+
+- avatar-120px.png
+
+Sourced from [raw.githubusercontent.com/carloscuesta/gitmoji...](https://raw.githubusercontent.com/carloscuesta/gitmoji/master/public/static/apple-icon-120x120.png).
+
+© 2016-2022 by [Carlos Cuesta](https://github.com/carloscuesta)
+
+Licensed under MIT
+
+https://github.com/carloscuesta/gitmoji/blob/master/LICENSE
+
 ### kettle-rb
 
 [![kettle-rb Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-rb-i]][🖼️kettle-rb]
@@ -1666,6 +1690,30 @@ but the code of the project and website was, and is still, licensed under MIT.
 The following were the guidelines for OpenID logo as of June 8, 2025, as displayed on https://openid.net/policies/
 
 > Logo Guidelines: The OpenID logo is to be displayed in its entirety on either a solid light or dark background—avoid mid-tones or strongly colored backgrounds. The logo should not be displayed in parts, with color variations, or with other elements superimposed on top of the logo. The stylized I+D symbol should not be modified or distorted.
+
+### regex
+
+[![The Regular Expression OOjs UI Icon by GOJU, MIT via Wikimedia Commons][🖼️regex-i]][🖼️regex]
+
+[🖼️regex-i]: https://logos.galtzo.com/assets/images/regex/avatar-120px.svg
+[🖼️regex]: https://rubular.com/
+
+```markdown
+[![The Regular Expression OOjs UI Icon by GOJU, MIT via Wikimedia Commons][🖼️regex-i]][🖼️regex]
+
+[🖼️regex-i]: https://logos.galtzo.com/assets/images/regex/avatar-120px.svg
+[🖼️regex]: https://rubular.com/
+```
+
+- avatar-120px.png
+
+Sourced from [phabricator.wikimedia.org](https://phabricator.wikimedia.org/diffusion/GVED/browse/master/lib/oojs-ui/themes/mediawiki/images/icons/).
+
+© by [GOJU](https://phabricator.wikimedia.org/diffusion/GOJU/browse/master/AUTHORS.txt)
+
+Licensed under MIT, via Wikimedia Commons
+
+http://opensource.org/licenses/mit-license.php
 
 ### resque
 
@@ -1880,7 +1928,7 @@ P.S. If you need help️ or want to say thanks, 👇 Join the Discord.
 [🚂bdfl-blog]: http://www.railsbling.com/tags/logos
 [🚂bdfl-blog-img]: https://img.shields.io/badge/blog-railsbling-0093D0.svg?style=for-the-badge&logo=rubyonrails&logoColor=orange
 [🚂bdfl-contact]: http://www.railsbling.com/contact
-[🚂bdfl-contact-img]: https://img.shields.io/badge/Contact-BDFL-0093D0.svg?style=flat&logo=rubyonrails&logoColor=red
+[🚂bdfl-contact-img]: https://img.shields.io/badge/Contact-Maintainer-0093D0.svg?style=flat&logo=rubyonrails&logoColor=red
 [💖🖇linkedin]: http://www.linkedin.com/in/peterboling
 [💖🖇linkedin-img]: https://img.shields.io/badge/PeterBoling-LinkedIn-0B66C2?style=flat&logo=newjapanprowrestling
 [💖✌️wellfound]: https://angel.co/u/peter-boling
