@@ -348,10 +348,10 @@ namespace :ci do
 
     # Determine actual workflow files present, and prepare dynamic additions excluding specified files.
     existing_files = if Dir.exist?(workflows_dir)
-                       Dir[File.join(workflows_dir, "*.yml")] + Dir[File.join(workflows_dir, "*.yaml")]
-                     else
-                       []
-                     end
+      Dir[File.join(workflows_dir, "*.yml")] + Dir[File.join(workflows_dir, "*.yaml")]
+    else
+      []
+    end
     existing_basenames = existing_files.map { |p| File.basename(p) }
 
     # Reduce mapping choices to only those with a corresponding workflow file
@@ -455,11 +455,11 @@ namespace :ci do
         st = run["status"]
         con = run["conclusion"]
         emoji = case st
-                when "queued" then "⏳️"
-                when "in_progress" then "👟"
-                when "completed" then ((con == "success") ? "✅" : "🍅")
-                else "⏳️"
-                end
+        when "queued" then "⏳️"
+        when "in_progress" then "👟"
+        when "completed" then ((con == "success") ? "✅" : "🍅")
+        else "⏳️"
+        end
         details = [st, con].compact.join("/")
         [c, f, "#{emoji} (#{details})#{append}"]
       else
@@ -470,22 +470,22 @@ namespace :ci do
     if choice && !choice.empty?
       # If user passed a filename directly (with or without extension), resolve it
       file = if mapping.key?(choice)
-               mapping.fetch(choice)
-             elsif /\.(yml|yaml)\z/.match?(choice)
-               # Accept either full basename (without ext) or basename with .yml/.yaml
-               choice
-             else
-               cand_yml = File.join(workflows_dir, "#{choice}.yml")
-               cand_yaml = File.join(workflows_dir, "#{choice}.yaml")
-               if File.file?(cand_yml)
-                 "#{choice}.yml"
-               elsif File.file?(cand_yaml)
-                 "#{choice}.yaml"
-               else
-                 # Fall back to .yml for error messaging; will fail below
-                 "#{choice}.yml"
-               end
-             end
+        mapping.fetch(choice)
+      elsif /\.(yml|yaml)\z/.match?(choice)
+        # Accept either full basename (without ext) or basename with .yml/.yaml
+        choice
+      else
+        cand_yml = File.join(workflows_dir, "#{choice}.yml")
+        cand_yaml = File.join(workflows_dir, "#{choice}.yaml")
+        if File.file?(cand_yml)
+          "#{choice}.yml"
+        elsif File.file?(cand_yaml)
+          "#{choice}.yaml"
+        else
+          # Fall back to .yml for error messaging; will fail below
+          "#{choice}.yml"
+        end
+      end
       file_path = File.join(workflows_dir, file)
       unless File.file?(file_path)
         puts "Unknown option or missing workflow file: #{choice} -> #{file}"
@@ -555,30 +555,28 @@ namespace :ci do
 
     options.each do |code, file|
       workers << Thread.new(code, file, owner, repo, branch, token, start_at) do |c, f, ow, rp, br, tk, st_at|
-        begin
-          # small initial delay if threads finish too quickly, to let the menu/prompt finish rendering
-          now = Process.clock_gettime(Process::CLOCK_MONOTONIC)
-          delay = 0.12 - (now - st_at)
-          sleep(delay) if delay && delay > 0
+        # small initial delay if threads finish too quickly, to let the menu/prompt finish rendering
+        now = Process.clock_gettime(Process::CLOCK_MONOTONIC)
+        delay = 0.12 - (now - st_at)
+        sleep(delay) if delay && delay > 0
 
-          if ow.nil? || rp.nil? || br.nil?
-            status_q << [c, f, "n/a"]
-            Thread.exit
-          end
-          uri = URI("https://api.github.com/repos/#{ow}/#{rp}/actions/workflows/#{f}/runs?branch=#{URI.encode_www_form_component(br)}&per_page=1")
-          req = Net::HTTP::Get.new(uri)
-          req["User-Agent"] = "ci:act rake task"
-          req["Authorization"] = "token #{tk}" if tk && !tk.empty?
-          res = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) { |http| http.request(req) }
-          status_q <<
-            if res.is_a?(Net::HTTPSuccess)
-              process_success_response(res, c, f)
-            else
-              [c, f, "fail #{res.code}"]
-            end
-        rescue StandardError
-          status_q << [c, f, "err"]
+        if ow.nil? || rp.nil? || br.nil?
+          status_q << [c, f, "n/a"]
+          Thread.exit
         end
+        uri = URI("https://api.github.com/repos/#{ow}/#{rp}/actions/workflows/#{f}/runs?branch=#{URI.encode_www_form_component(br)}&per_page=1")
+        req = Net::HTTP::Get.new(uri)
+        req["User-Agent"] = "ci:act rake task"
+        req["Authorization"] = "token #{tk}" if tk && !tk.empty?
+        res = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) { |http| http.request(req) }
+        status_q <<
+          if res.is_a?(Net::HTTPSuccess)
+            process_success_response(res, c, f)
+          else
+            [c, f, "fail #{res.code}"]
+          end
+      rescue StandardError
+        status_q << [c, f, "err"]
       end
     end
 
@@ -590,10 +588,10 @@ namespace :ci do
       # Check for user input first (non-blocking)
       unless input_q.empty?
         selected = begin
-                     input_q.pop(true)
-                   rescue
-                     nil
-                   end
+          input_q.pop(true)
+        rescue
+          nil
+        end
         break if selected
       end
 
