@@ -1586,7 +1586,6 @@ https://creativecommons.org/licenses/by-sa/4.0/
 - avatar-128px.png
 - avatar-192px.png
 
-
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
 Licensed under CC BY-SA 4.0
@@ -1740,6 +1739,36 @@ Copyright © the RSpec development team
 Licensed under CC BY-NC-SA 4.0
 
 Official license of the rspec logo: https://github.com/rspec/rspec.github.io/blob/source/license.md
+
+### RuboCop-LTS
+
+[![RuboCop-LTS Logo by Aboling0, CC BY-SA 4.0][🖼️rubocop-lts-i]][🖼️rubocop-lts]
+
+[🖼️rubocop-lts-i]: https://logos.galtzo.com/assets/images/rubocop-lts/rubocop-lts/avatar-192px.svg
+[🖼️rubocop-lts]: https://github.com/rubocop-lts/rubocop-lts
+
+```markdown
+[![RuboCop-LTS Logo by Aboling0, CC BY-SA 4.0][🖼️rubocop-lts-i]][🖼️rubocop-lts]
+
+[🖼️rubocop-lts-i]: https://logos.galtzo.com/assets/images/rubocop-lts/rubocop-lts/avatar-192px.svg
+[🖼️rubocop-lts]: https://github.com/rubocop-lts/rubocop-lts
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo-black-bg.svg
+- avatar-128px-black-bg.svg
+- avatar-192px-black-bg.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ### ruby-lang
 
