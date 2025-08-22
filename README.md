@@ -1565,18 +1565,99 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### kettle-dev
+
+[![kettle-dev Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-dev-i]][🖼️kettle-dev]
+
+[🖼️kettle-dev-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-dev/avatar-192px.svg
+[🖼️kettle-dev]: https://github.com/kettle-rb/kettle-dev
+
+```markdown
+[![kettle-dev Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-dev-i]][🖼️kettle-dev]
+
+[🖼️kettle-dev-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-dev/avatar-192px.svg
+[🖼️kettle-dev]: https://github.com/kettle-rb/kettle-dev
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+#### kettle-test
+
+[![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
+
+[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
+[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
+
+```markdown
+[![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
+
+[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
+[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 #### kettle-soup-cover
 
-[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
+[![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
 
 [🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
 [🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
 
 ```markdown
-[![Appraisal2 Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
+[![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
 
 [🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
 [🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+#### kettle-wash
+
+[![kettle-wash Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-wash-i]][🖼️kettle-wash]
+
+[🖼️kettle-wash-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-wash/avatar-192px.svg
+[🖼️kettle-wash]: https://github.com/kettle-rb/kettle-wash
+
+```markdown
+[![kettle-wash Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-wash-i]][🖼️kettle-wash]
+
+[🖼️kettle-wash-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-wash/avatar-192px.svg
+[🖼️kettle-wash]: https://github.com/kettle-rb/kettle-wash
 ```
 
 - logo.svg
