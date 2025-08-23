@@ -1853,7 +1853,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 #### rubocop-lts
 
-NOTE: Project logas are the same as the org logos.
+NOTE: Project logos are the same as the org logos.
 
 [![rubocop-lts Logo by Aboling0, CC BY-SA 4.0][🖼️rubocop-lts-i]][🖼️rubocop-lts]
 
