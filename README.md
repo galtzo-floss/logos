@@ -1987,17 +1987,18 @@ chat rooms and mailing lists agrees to follow the [![Contributor Covenant 2.1][�
 
 Made with [contributors-img][🖐contrib-rocks].
 
-## ⭐️ Star History
+<details>
+    <summary>⭐️ Star History</summary>
 
 <a href="https://star-history.com/#galtzo-floss/logos&Date">
  <picture>
-     <source media="(prefers-color-scheme: dark)"
-             srcset="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date&theme=dark"/>
-     <source media="(prefers-color-scheme: light)"
-             srcset="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=galtzo-floss/logos&type=Date" />
  </picture>
 </a>
+
+</details>
 
 ## 📄 License
 
@@ -2037,21 +2038,26 @@ Want the code for this copyright blurb?
 </ul>
 ```
 
-## 🤑 One more thing
+## 🤑 A request for help
 
-Having arrived at the bottom of the page, please endure a final supplication.
-The primary maintainer of this project, Peter Boling, wants
-Ruby to be a great place for people to solve problems, big and small.
-Please consider supporting his efforts via the giant yellow link below,
-or one of the smaller ones, depending on button size preference.
+Maintainers have teeth and need to pay their dentists.
+After getting laid off in an RIF in March and filled with many dozens of rejections,
+I'm now spending ~60+ hours a week building open source tools.
+I'm hoping to be able to pay for my kids' health insurance this month,
+so if you value the work I am doing, I need your support.
+Please consider sponsoring me or the project.
 
-[![Buy me a latte][🖇buyme-img]][🖇buyme]
+To join the community or get help 👇️ Join the Discord.
 
-[![Liberapay Goal Progress][⛳liberapay-img]][⛳liberapay] [![Sponsor Me on Github][🖇sponsor-img]][🖇sponsor] [![Donate on Polar][🖇polar-img]][🖇polar] [![Donate to my FLOSS or refugee efforts at ko-fi.com][🖇kofi-img]][🖇kofi] [![Donate to my FLOSS or refugee efforts using Patreon][🖇patreon-img]][🖇patreon]
+[![Live Chat on Discord][✉️discord-invite-img-ftb]][✉️discord-invite]
 
-P.S. If you need help️ or want to say thanks, 👇 Join the Discord.
+To say "thanks!" ☝️ Join the Discord or 👇️ send money.
 
-[![Live Chat on Discord][✉️discord-invite-img]][✉️discord-invite]
+[![Sponsor galtzo-floss/awesome-sponsorships on Open Source Collective][🖇osc-all-bottom-img]][🖇osc] 💌 [![Sponsor me on GitHub Sponsors][🖇sponsor-bottom-img]][🖇sponsor] 💌 [![Sponsor me on Liberapay][⛳liberapay-bottom-img]][⛳liberapay-img] 💌 [![Donate on PayPal][🖇paypal-bottom-img]][🖇paypal-img]
+
+### Please give the project a star ⭐ ♥.
+
+Thanks for RTFM. ☺️
 
 [⛳liberapay-img]: https://img.shields.io/liberapay/goal/pboling.svg?logo=liberapay&color=a51611&style=flat
 [⛳liberapay-bottom-img]: https://img.shields.io/liberapay/goal/pboling.svg?style=for-the-badge&logo=liberapay&color=a51611
