@@ -1830,13 +1830,13 @@ http://opensource.org/licenses/mit-license.php
 
 [![resque Logo, (presumed) MIT][🖼️resque-i]][🖼️resque]
 
-[🖼resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.svg
+[🖼resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.png
 [🖼resque]: https://github.com/resque
 
 ```markdown
 [![resque Log, (presumed) MIT][🖼resque-i]][🖼️resque]
 
-[🖼️resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.svg
+[🖼️resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.png
 [🖼️resque]: https://github.com/resque
 ```
 
