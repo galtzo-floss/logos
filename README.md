@@ -1828,16 +1828,16 @@ http://opensource.org/licenses/mit-license.php
 
 ### resque
 
-[![resque Logo, (presumed) MIT][🖼️rspec-i]][🖼️rspec]
+[![resque Logo, (presumed) MIT][🖼️resque-i]][🖼️resque]
 
 [🖼resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.svg
 [🖼resque]: https://github.com/resque
 
 ```markdown
-[![resque Log, (presumed) MIT][🖼resque-i]][🖼️rspec]
+[![resque Log, (presumed) MIT][🖼resque-i]][🖼️resque]
 
-[🖼️rspec-i]: https://logos.galtzo.com/assets/images/rspec/avatar-192px.svg
-[🖼️rspec]: https://github.com/rspec
+[🖼️resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.svg
+[🖼️resque]: https://github.com/resque
 ```
 
 - logo.png
