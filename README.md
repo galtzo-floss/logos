@@ -1799,6 +1799,27 @@ http://opensource.org/licenses/mit-license.php
 
 ### resque
 
+[![resque Logo, (presumed) MIT][🖼️rspec-i]][🖼️rspec]
+
+[🖼resque-i]: https://logos.galtzo.com/assets/images/resque/avatar-192px.svg
+[🖼resque]: https://github.com/resque
+
+```markdown
+[![resque Log, (presumed) MIT][🖼resque-i]][🖼️rspec]
+
+[🖼️rspec-i]: https://logos.galtzo.com/assets/images/rspec/avatar-192px.svg
+[🖼️rspec]: https://github.com/rspec
+```
+
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+- square-392px.png
+
+Copyright © (presumed) the Resque development team
+
+Licensed under MIT (presumed)
+
 ### rspec
 
 [![rspec Logo by Ninefold, a Macquarie Telecom company, CC BY-NC-SA 4.0][🖼️rspec-i]][🖼️rspec]
