@@ -124,6 +124,35 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+### floss-funding
+
+[![floss-funding Logo by Aboling0, CC BY-SA 4.0][🖼️floss-funding-i]][🖼️floss-funding]
+
+[🖼️floss-funding-i]: https://logos.galtzo.com/assets/images/floss-funding/avatar-192px.svg
+[🖼️floss-funding]: https://github.com/floss-funding/
+
+```markdown
+[![floss-funding Logo by Aboling0, CC BY-SA 4.0][🖼️floss-funding-i]][🖼️floss-funding]
+
+[🖼️floss-funding-i]: https://logos.galtzo.com/assets/images/floss-funding/avatar-192px.svg
+[🖼️floss-funding]: https://github.com/floss-funding/
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- avatar-198px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+- avatar-198px.png
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ### galtzo-floss
 
 [![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-discord] [![Galtzo FLOSS Logo - no background by Aboling0, CC BY-SA 4.0][🖼️galtzo-no-bg-i]][🖼️galtzo-floss] [![Galtzo FLOSS Logo - no words by Aboling0, CC BY-SA 4.0][🖼️galtzo-blank-i]][🖼️galtzo-floss]
