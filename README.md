@@ -1773,17 +1773,19 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 [![omniauth Logo][🖼️omniauth-i]][🖼️omniauth]
 
-[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.png
+[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.png
 [🖼️omniauth]: https://github.com/omniauth/
 
 ```markdown
 [![omniauth Logo (presumed to be) by tomeara, (presumed to be) MIT License][🖼️omniauth-i]][🖼️omniauth]
 
-[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.png
+[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.png
 [🖼️omniauth]: https://github.com/omniauth
 ```
 
+- avatar-128px.png
 - avatar-182px.png (resized to square)
+- avatar-192px.png
 - tall-158x182px.png
 - tall-316x364px.png
 
