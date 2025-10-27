@@ -1748,15 +1748,15 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
 [🖼️omniauth]: https://github.com/omniauth/
 
 ```markdown
-[![omniauth Logo][🖼️omniauth-i]][🖼️omniauth]
+[![omniauth Logo (presumed to be) by tomeara, (presumed to be) MIT License][🖼️omniauth-i]][🖼️omniauth]
 
 [🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-182px.png
 [🖼️omniauth]: https://github.com/omniauth
 ```
 
-- square-182px.jpeg (resized to square)
-- tall-158x182px.jpeg
-- tall-316x364px.jpeg
+- avatar-182px.png (resized to square)
+- tall-158x182px.png
+- tall-316x364px.png
 
 Committed by https://github.com/tomeara to the old GH-Pages site for OmniAuth
 
@@ -2091,7 +2091,7 @@ Thanks for RTFM. ☺️
 [🖇floss-funding.dev]: https://floss-funding.dev
 [🖇floss-funding-gem]: https://github.com/galtzo-floss/floss_funding
 [✉️discord-invite]: https://discord.gg/3qme4XHNKN
-[✉️discord-invite-img-ftb]: https://img.shields.io/discord/1373797679469170758?style=for-the-badge
+[✉️discord-invite-img-ftb]: https://img.shields.io/discord/1373797679469170758?style=for-the-badge&logo=discord
 [✉️ruby-friends-img]: https://img.shields.io/badge/daily.dev-💎_Ruby_Friends-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white
 [✉️ruby-friends]: https://app.daily.dev/squads/rubyfriends
 
