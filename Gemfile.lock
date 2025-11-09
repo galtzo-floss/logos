@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/pboling/yard-junk
+  remote: https://github.com/pboling/yard-junk.git
   revision: 54ccebabbfa9a9cd44d0b991687ebbfd22c32b55
   branch: next
   specs:
@@ -11,7 +11,7 @@ GIT
       yard
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gem.coop/
   specs:
     ast (2.4.3)
     backports (3.25.2)
@@ -21,7 +21,7 @@ GEM
       bundler (>= 1.2.0, < 3)
       thor (~> 1.0)
     concurrent-ruby (1.3.5)
-    date (3.4.1)
+    date (3.5.0)
     diff-lcs (1.6.2)
     diffy (3.4.4)
     dry-configurable (1.3.0)
@@ -53,8 +53,8 @@ GEM
       dry-inflector (~> 1.0)
       dry-logic (~> 1.4)
       zeitwerk (~> 2.6)
-    erb (5.1.1)
-    json (2.15.2)
+    erb (5.1.3)
+    json (2.16.0)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
@@ -89,8 +89,8 @@ GEM
       stringio
     racc (1.8.1)
     rainbow (3.1.1)
-    rake (13.3.0)
-    rdoc (6.15.0)
+    rake (13.3.1)
+    rdoc (6.15.1)
       erb
       psych (>= 4.0.0)
       tsort
@@ -114,7 +114,7 @@ GEM
       rubocop-ast (>= 1.46.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 2.4.0, < 4.0)
-    rubocop-ast (1.47.1)
+    rubocop-ast (1.48.0)
       parser (>= 3.3.7.2)
       prism (~> 1.4)
     rubocop-gradual (0.3.6)
@@ -144,7 +144,7 @@ GEM
       rubocop-thread_safety (~> 0.5, >= 0.5.1)
       standard-rubocop-lts (~> 1.0, >= 1.0.7)
       version_gem (>= 1.1.3, < 3)
-    rubocop-shopify (2.17.1)
+    rubocop-shopify (2.18.0)
       rubocop (~> 1.62)
     rubocop-thread_safety (0.7.3)
       lint_roller (~> 1.1)
@@ -177,7 +177,11 @@ GEM
     unicode-emoji (4.1.0)
     version_gem (1.1.9)
     yard (0.9.37)
-    yard-relative_markdown_links (0.5.0)
+    yard-fence (0.8.0)
+      rdoc (~> 6.11)
+      version_gem (~> 1.1, >= 1.1.9)
+      yard (~> 0.9, >= 0.9.37)
+    yard-relative_markdown_links (0.6.0)
       nokogiri (>= 1.14.3, < 2)
     zeitwerk (2.7.3)
 
@@ -203,8 +207,9 @@ DEPENDENCIES
   rubocop-lts (~> 24.0, >= 24.0.2)
   standard (>= 1.50)
   yard (~> 0.9, >= 0.9.37)
+  yard-fence (~> 0.8)
   yard-junk (~> 0.0, >= 0.0.10)!
-  yard-relative_markdown_links (~> 0.5.0)
+  yard-relative_markdown_links (~> 0.6)
 
 BUNDLED WITH
    2.7.1
