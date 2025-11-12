@@ -2018,6 +2018,41 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### rubythems
+
+NOTE: Project logos are the same as the org logos.
+
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️️rubythems-i]][🖼️️rubythems]
+
+[🖼️️rubythems-i]: https://logos.galtzo.com/assets/images/️rubythems/️rubythems/avatar-192px.svg
+[🖼️️rubythems]: https://github.com/️rubythems/️rubythems
+
+```markdown
+[![️rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️️rubythems-i]][🖼️️rubythems]
+
+[🖼️️rubythems-i]: https://logos.galtzo.com/assets/images/️rubythems/️rubythems/avatar-192px.svg
+[🖼️️rubythems]: https://github.com/️rubythems/️rubythems
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo-white-bg.svg
+- avatar-128px-white-bg.svg
+- avatar-192px-white-bg.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+- logo-white-bg.png
+- avatar-128px-white-bg.png
+- avatar-192px-white-bg.png
+
+© 2025 by Peter Boling (https://github.com/pboling)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ### ruby-lang
 
 [![ruby-lang Logo, Yukihiro Matsumoto, Ruby Visual Identity Team, CC BY-SA 2.5][🖼️ruby-lang-i]][🖼️ruby-lang]
