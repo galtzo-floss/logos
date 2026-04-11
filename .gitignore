@@ -1,1 +1,97 @@
-.yardoc
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+*.gem
+
+# rspec failure tracking
+.rspec_status
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### Vim ###
+# Swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+# Appraisals Bundles (only commit the coverage, audit, and style lockfiles)
+gemfiles/ruby_*.gemfile.lock
+gemfiles/*_head.gemfile.lock
+Appraisal.root.gemfile.lock
+# Build Artifacts
+/tmp/*
+!/tmp/.gitignore
+# Bundler
+/vendor/bundle/
+/gemfiles/*.lock
+/gemfiles/.bundle/
+/gemfiles/.bundle/config
+/gemfiles/vendor/
+Appraisal.*.gemfile.lock
+# Specs
+/results/
+.output.txt
+# Documentation
+/.yardoc/
+/rdoc/
+# Ruby Version Managers (RVM, rbenv, etc)
+# Ignored because we currently use .tool-versions
+.rvmrc
+.ruby-version
+.ruby-gemset
+# Benchmarking
+/measurement/
+# Debugger detritus
+.byebug_history
+# Local environment overrides (KEY=value, loaded by mise via dotenvy)
+.env.local
+# OS Detritus
+# Editors
+# Sentinels
+.floss_funding.*.lock
