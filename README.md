@@ -78,14 +78,17 @@ The logos at the very top of this readme are a good example of usage. This is th
 [🖼️appraisal-rb]: https://github.com/appraisal-rb/
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- avatar-198px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- avatar-198px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - avatar-198px.svg
+  - avatar-198px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -138,14 +141,18 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️floss-funding]: https://github.com/floss-funding/
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- avatar-198px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- avatar-198px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
+
+Note: A follow-up asset generation pass will add any missing pattern-conformant variants.
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -581,13 +588,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️destination_errors]: https://github.com/galtzo-floss/destination_errors
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -832,13 +842,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️json_schemer-fuzz]: https://github.com/galtzo-floss/json_schemer-fuzz
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -860,13 +873,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️letter_group]: https://github.com/galtzo-floss/letter_group
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -888,13 +904,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️library_tree]: https://github.com/galtzo-floss/library_tree
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -916,13 +935,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️logos]: https://github.com/galtzo-floss/logos
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1280,13 +1302,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️silent_stream]: https://github.com/galtzo-floss/silent_stream
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1308,13 +1333,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️simple_column-scopes]: https://github.com/galtzo-floss/simple_column-scopes
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1336,13 +1364,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️spyke-connection_lambda]: https://github.com/galtzo-floss/spyke-connection_lambda
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
@@ -1688,20 +1719,20 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️oauth]: https://oauth.net/
 ```
 
-- logo-original.svg (original, but not square aspect ratio)
-- logo-square.svg (almost squared aspect ratio, 598 x 600 pixels, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oauth_logo.svg))
-- logo.svg (resized to 500px)
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.svg
-- avatar-192px.svg
+- Pattern assets:
+  - logo.svg (resized to 500px)
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
 
-#### Alternate Versions
-
-- logo-discovery.png
-- logo-no-counter.png
-- logo-shiny.png
+- Extra assets:
+  - logo-original.svg (original, but not square aspect ratio)
+  - logo-square.svg (almost squared aspect ratio, 598 x 600 pixels, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oauth_logo.svg))
+  - logo-discovery.png
+  - logo-no-counter.png
+  - logo-shiny.jpg
 
 http://wiki.oauth.net/Logo
 
@@ -1723,14 +1754,18 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
 [🖼️oauth2]: https://oauth.net/
 ```
 
-- logo-original.svg (original, but not square aspect ratio)
-- logo-square.svg (squared aspect ratio, 260px)
-- logo.svg (resized to 500px)
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.svg
-- avatar-192px.svg
+- Pattern assets:
+  - logo.svg (resized to 500px)
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-original.svg (original, but not square aspect ratio)
+  - logo-square.svg (squared aspect ratio, 260px)
+  - avatar-124px.png
 
 Wasn't able to find an official source, except for `avatar-124px.png`, which appears on [oauth.net](https://oauth.net/images/oauth-2-sm.png).
 Assuming the copyright and license of the oauth2 logo are the same as the logos for OAuth.
@@ -1835,9 +1870,13 @@ Licensed under MIT (presumed)
 [🖼️rspec]: https://github.com/rspec
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+
+- Extra assets:
+  - square-800px.svg
 
 Copyright © the RSpec development team
 
@@ -1907,34 +1946,37 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+### rubythems
+
 #### rubythems
 
-NOTE: Project logos are the same as the org logos.
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
 
-[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️️rubythems-i]][🖼️️rubythems]
-
-[🖼️️rubythems-i]: https://logos.galtzo.com/assets/images/️rubythems/️rubythems/avatar-192px.svg
-[🖼️️rubythems]: https://github.com/️rubythems/️rubythems
+[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
+[🖼️rubythems]: https://github.com/rubythems/rubythems
 
 ```markdown
-[![️rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️️rubythems-i]][🖼️️rubythems]
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
 
-[🖼️️rubythems-i]: https://logos.galtzo.com/assets/images/️rubythems/️rubythems/avatar-192px.svg
-[🖼️️rubythems]: https://github.com/️rubythems/️rubythems
+[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
+[🖼️rubythems]: https://github.com/rubythems/rubythems
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo-white-bg.svg
-- avatar-128px-white-bg.svg
-- avatar-192px-white-bg.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- logo-white-bg.png
-- avatar-128px-white-bg.png
-- avatar-192px-white-bg.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-white-bg.svg
+  - avatar-128px-white-bg.svg
+  - avatar-192px-white-bg.svg
+  - logo-white-bg.png
+  - avatar-128px-white-bg.png
+  - avatar-192px-white-bg.png
 
 © 2025 by Peter Boling (https://github.com/pboling)
 
@@ -1988,22 +2030,24 @@ See [oauth2](#oauth2).
 [🖼️ruby-openid-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px-blank.svg
 [🖼️ruby-openid]: https://github.com/ruby-openid
 ```
-- avatar-124px-blank.svg
-- avatar-128px.svg
-- avatar-128px-blank.svg
-- avatar-192px.svg
-- avatar-192px-blank.svg
-- logo.svg
-- logo-blank.svg
-- avatar-124px-blank.png
-- avatar-128px.png
-- avatar-128px-blank.png
-- avatar-192px.png
-- avatar-192px-blank.png
-- logo.png
-- logo-blank.png
-- square-515px.png
-- square-1030px.png
+- Pattern assets:
+  - logo.svg
+  - logo-blank.svg
+  - avatar-128px.svg
+  - avatar-128px-blank.svg
+  - avatar-192px.svg
+  - avatar-192px-blank.svg
+  - logo.png
+  - logo-blank.png
+  - avatar-128px.png
+  - avatar-128px-blank.png
+  - avatar-192px.png
+  - avatar-192px-blank.png
+
+- Extra assets:
+  - avatar-124px-blank.png
+  - square-515px.png
+  - square-1030px.png
 
 © 2025 by Aboling0 (https://github.com/Aboling0)
 
