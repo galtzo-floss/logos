@@ -1655,6 +1655,38 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### kettle-drift
+
+[![kettle-drift Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-drift-i]][🖼️kettle-drift]
+
+[🖼️kettle-drift-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-drift/avatar-192px.svg
+[🖼️kettle-drift]: https://github.com/kettle-rb/kettle-drift
+
+```markdown
+[![kettle-drift Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-drift-i]][🖼️kettle-drift]
+
+[🖼️kettle-drift-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-drift/avatar-192px.svg
+[🖼️kettle-drift]: https://github.com/kettle-rb/kettle-drift
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+
 #### kettle-test
 
 [![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
