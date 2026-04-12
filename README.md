@@ -1546,6 +1546,37 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+#### yard-timekeeper
+
+[![yard-timekeeper Logo by Aboling0, CC BY-SA 4.0][🖼️yard-timekeeper-i]][🖼️yard-timekeeper]
+
+[🖼️yard-timekeeper-i]: https://logos.galtzo.com/assets/images/galtzo-floss/yard-timekeeper/avatar-192px.svg
+[🖼️yard-timekeeper]: https://github.com/galtzo-floss/yard-timekeeper
+
+```markdown
+[![yard-timekeeper Logo by Aboling0, CC BY-SA 4.0][🖼️yard-timekeeper-i]][🖼️yard-timekeeper]
+
+[🖼️yard-timekeeper-i]: https://logos.galtzo.com/assets/images/galtzo-floss/yard-timekeeper/avatar-192px.svg
+[🖼️yard-timekeeper]: https://github.com/galtzo-floss/yard-timekeeper
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ### gitmoji
 
 [![The Gitmoji Logo by Carlos Cuesta, MIT][🖼️gitmoji-i]][🖼️gitmoji]
