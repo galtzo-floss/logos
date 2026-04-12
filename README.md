@@ -1748,18 +1748,18 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-#### kettle-test
+#### kettle-soup-cover
 
-[![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
+[![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
 
-[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
-[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
+[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
+[🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
 
 ```markdown
-[![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
+[![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
 
-[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
-[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
+[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
+[🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
 ```
 
 - logo.svg
@@ -1775,18 +1775,18 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-#### kettle-soup-cover
+#### kettle-test
 
-[![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
+[![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
 
-[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
-[🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
+[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
+[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
 
 ```markdown
-[![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
+[![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
 
-[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
-[🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
+[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
+[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
 ```
 
 - logo.svg
@@ -2070,44 +2070,6 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-### rubythems
-
-#### rubythems
-
-[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
-
-[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
-[🖼️rubythems]: https://github.com/rubythems/rubythems
-
-```markdown
-[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
-
-[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
-[🖼️rubythems]: https://github.com/rubythems/rubythems
-```
-
-- Pattern assets:
-  - logo.svg
-  - avatar-128px.svg
-  - avatar-192px.svg
-  - logo.png
-  - avatar-128px.png
-  - avatar-192px.png
-
-- Extra assets:
-  - logo-white-bg.svg
-  - avatar-128px-white-bg.svg
-  - avatar-192px-white-bg.svg
-  - logo-white-bg.png
-  - avatar-128px-white-bg.png
-  - avatar-192px-white-bg.png
-
-© 2025 by Peter Boling (https://github.com/pboling)
-
-Licensed under CC BY-SA 4.0
-
-https://creativecommons.org/licenses/by-sa/4.0/
-
 ### ruby-lang
 
 [![ruby-lang Logo, Yukihiro Matsumoto, Ruby Visual Identity Team, CC BY-SA 2.5][🖼️ruby-lang-i]][🖼️ruby-lang]
@@ -2189,6 +2151,44 @@ NOTE: The Ruby OpenID logo integrates the stylized I+D of the official OpenID lo
 The following were the guidelines for OpenID logo as of June 8, 2025, as displayed on https://openid.net/policies/
 
 > Logo Guidelines: The OpenID logo is to be displayed in its entirety on either a solid light or dark background—avoid mid-tones or strongly colored backgrounds. The logo should not be displayed in parts, with color variations, or with other elements superimposed on top of the logo. The stylized I+D symbol should not be modified or distorted.
+
+### rubythems
+
+#### rubythems
+
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
+
+[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
+[🖼️rubythems]: https://github.com/rubythems/rubythems
+
+```markdown
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
+
+[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
+[🖼️rubythems]: https://github.com/rubythems/rubythems
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-white-bg.svg
+  - avatar-128px-white-bg.svg
+  - avatar-192px-white-bg.svg
+  - logo-white-bg.png
+  - avatar-128px-white-bg.png
+  - avatar-192px-white-bg.png
+
+© 2025 by Peter Boling (https://github.com/pboling)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ### shields-io
 
