@@ -9,7 +9,7 @@ source "https://gem.coop"
 git_source(:codeberg) { |repo_name| "https://codeberg.org/#{repo_name}" }
 git_source(:gitlab) { |repo_name| "https://gitlab.com/#{repo_name}" }
 
-gem "rake", "~> 13.0"
+gem "rake", "~> 13.4"
 
 ### Audit
 eval_gemfile "gemfiles/modular/audit.gemfile"
