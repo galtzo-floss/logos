@@ -20,7 +20,7 @@ An effort to normalize and standardize logos used across various open source pro
 
 It also serves as an example of how you might put logos to use in your project, as you may have noticed at the top of this readme.
 
-Logos original to this project are by [@Aboling0](https://github.com/Aboling0).  Many thanks to her!
+Logos original to this project are by [@Aboling0](https://github.com/Aboling0). Many thanks to her!
 
 **Patterns**
 
@@ -2116,6 +2116,7 @@ See [oauth2](#oauth2).
 [🖼️ruby-openid-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/avatar-192px-blank.svg
 [🖼️ruby-openid]: https://github.com/ruby-openid
 ```
+
 - Pattern assets:
   - logo.svg
   - logo-blank.svg
@@ -2196,6 +2197,33 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 Creator and License are unknown.
 
+### structuredmerge
+
+[![structuredmerge Logo by Aboling0, CC BY-SA 4.0][🖼️structuredmerge-i]][🖼️structuredmerge]
+
+[🖼️structuredmerge-i]: https://logos.galtzo.com/assets/images/structuredmerge/avatar-192px.svg
+[🖼️structuredmerge]: https://github.com/structuredmerge/
+
+```markdown
+[![structuredmerge Logo by Aboling0, CC BY-SA 4.0][🖼️structuredmerge-i]][🖼️structuredmerge]
+
+[🖼️structuredmerge-i]: https://logos.galtzo.com/assets/images/structuredmerge/avatar-192px.svg
+[🖼️structuredmerge]: https://github.com/structuredmerge/
+```
+
+- logo.svg
+- avatar-128px.svg
+- avatar-192px.svg
+- logo.png
+- avatar-128px.png
+- avatar-192px.png
+
+© 2026 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ## 🤝 Contributing
 
 If you need some ideas of where to help check [issues][🤝gh-issues], or [PRs][🤝gh-pulls],
@@ -2251,15 +2279,19 @@ Want the code for this copyright blurb?
 
 ```html
 <ul>
-    <li>
-        Copyright (c) 2025 Peter H. Boling, of
-        <a href="https://discord.gg/3qme4XHNKN">
-            Galtzo.com
-            <picture>
-              <img src="https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg" alt="Galtzo.com Logo (wordless) by Aboling0, CC BY-SA 4.0" width="24">
-            </picture>
-        </a>, and logos contributors
-    </li>
+  <li>
+    Copyright (c) 2025 Peter H. Boling, of
+    <a href="https://discord.gg/3qme4XHNKN">
+      Galtzo.com
+      <picture>
+        <img
+          src="https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg"
+          alt="Galtzo.com Logo (wordless) by Aboling0, CC BY-SA 4.0"
+          width="24"
+        />
+      </picture> </a
+    >, and logos contributors
+  </li>
 </ul>
 ```
 
@@ -2319,7 +2351,6 @@ Thanks for RTFM. ☺️
 [✉️discord-invite-img-ftb]: https://img.shields.io/discord/1373797679469170758?style=for-the-badge&logo=discord
 [✉️ruby-friends-img]: https://img.shields.io/badge/daily.dev-💎_Ruby_Friends-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white
 [✉️ruby-friends]: https://app.daily.dev/squads/rubyfriends
-
 [🚂maint-blog]: http://www.railsbling.com/tags/logos
 [🚂maint-blog-img]: https://img.shields.io/badge/blog-railsbling-0093D0.svg?style=for-the-badge&logo=rubyonrails&logoColor=orange
 [🚂maint-contact]: http://www.railsbling.com/contact
@@ -2362,8 +2393,8 @@ Thanks for RTFM. ☺️
 [🚎contributors-gl]: https://gitlab.com/galtzo-floss/logos/-/graphs/main
 [🪇conduct]: CODE_OF_CONDUCT.md
 [🪇conduct-img]: https://img.shields.io/badge/Contributor_Covenant-2.1-259D6C.svg
-[📌gitmoji]:https://gitmoji.dev
-[📌gitmoji-img]:https://img.shields.io/badge/gitmoji_commits-%20😜%20😍-34495e.svg?style=flat-square
+[📌gitmoji]: https://gitmoji.dev
+[📌gitmoji-img]: https://img.shields.io/badge/gitmoji_commits-%20😜%20😍-34495e.svg?style=flat-square
 [📄copyright-notice-explainer]: https://opensource.stackexchange.com/questions/5778/why-do-licenses-such-as-the-mit-license-specify-a-single-year
 [📄license]: LICENSE.txt
 [📄license-ref]: https://opensource.org/licenses/MIT
