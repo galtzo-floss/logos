@@ -2201,14 +2201,14 @@ The [StructuredMerge.org](https://structuredmerge.org) Ruby Stack
 
 [![kettle-jem Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-i]][🖼️kettle-jem]
 
-[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem/avatar-192px.svg
-[🖼️kettle-jem]: https://github.com/kettle-rb/kettle-jem
+[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/structuredmerge/structuredmerge-ruby/kettle-jem/avatar-192px.svg
+[🖼️kettle-jem]: https://github.com/structuredmerge/structuredmerge-ruby/tree/main/gems/kettle-jem
 
 ```markdown
 [![kettle-jem Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-i]][🖼️kettle-jem]
 
-[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem/avatar-192px.svg
-[🖼️kettle-jem]: https://github.com/kettle-rb/kettle-jem
+[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/structuredmerge/structuredmerge-ruby/kettle-jem/avatar-192px.svg
+[🖼️kettle-jem]: https://github.com/structuredmerge/structuredmerge-ruby/tree/main/gems/kettle-jem
 ```
 
 - Pattern assets:
