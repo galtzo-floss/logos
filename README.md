@@ -1686,37 +1686,6 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-#### kettle-jem
-
-[![kettle-jem Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-i]][🖼️kettle-jem]
-
-[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem/avatar-192px.svg
-[🖼️kettle-jem]: https://github.com/kettle-rb/kettle-jem
-
-```markdown
-[![kettle-jem Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-i]][🖼️kettle-jem]
-
-[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem/avatar-192px.svg
-[🖼️kettle-jem]: https://github.com/kettle-rb/kettle-jem
-```
-
-- Pattern assets:
-  - logo.svg
-  - avatar-128px.svg
-  - avatar-192px.svg
-  - logo.png
-  - avatar-128px.png
-  - avatar-192px.png
-
-- Extra assets:
-  - (none currently)
-
-© 2025 by @Aboling0 (https://github.com/Aboling0)
-
-Licensed under CC BY-SA 4.0
-
-https://creativecommons.org/licenses/by-sa/4.0/
-
 #### kettle-jem-appraisals
 
 [![kettle-jem-appraisals Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-appraisals-i]][🖼️kettle-jem-appraisals]
@@ -2219,6 +2188,41 @@ Creator and License are unknown.
 - avatar-192px.png
 
 © 2026 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+#### structuredmerge-ruby
+
+The [StructuredMerge.org](https://structuredmerge.org) Ruby Stack
+
+##### kettle-jem
+
+[![kettle-jem Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-i]][🖼️kettle-jem]
+
+[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem/avatar-192px.svg
+[🖼️kettle-jem]: https://github.com/kettle-rb/kettle-jem
+
+```markdown
+[![kettle-jem Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-i]][🖼️kettle-jem]
+
+[🖼️kettle-jem-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem/avatar-192px.svg
+[🖼️kettle-jem]: https://github.com/kettle-rb/kettle-jem
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - (none currently)
+
+© 2025 by @Aboling0 (https://github.com/Aboling0)
 
 Licensed under CC BY-SA 4.0
 
