@@ -203,6 +203,8 @@ end
 # Setup Yard
 begin
   require "yard"
+  require "yard/fence"
+  require "yard/timekeeper"
 
   YARD::Rake::YardocTask.new(:yard) do |t|
     t.files = [
@@ -219,6 +221,8 @@ begin
       "sig/**/*.rbs",
     ]
   end
+  Yard::Fence.install_rake_tasks!(:yard)
+  Yard::Timekeeper.install_rake_tasks!(:yard)
   defaults << "yard"
 rescue LoadError
   desc("(stub) yard is unavailable")
