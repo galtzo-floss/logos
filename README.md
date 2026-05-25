@@ -675,13 +675,24 @@ https://creativecommons.org/licenses/by-sa/4.0/
 [🖼️flag_shih_tzu]: https://github.com/galtzo-floss/flag_shih_tzu
 ```
 
-- logo.svg
-- avatar-128px.svg
-- avatar-192px.svg
-- logo.png
-- avatar-128px.png
-- avatar-192px.png
-- square-250px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - social.svg
+  - social.png
+  - old/logo.svg
+  - old/avatar-128px.svg
+  - old/avatar-192px.svg
+  - old/logo.png
+  - old/avatar-128px.png
+  - old/avatar-192px.png
+  - old/square-250px.png
 
 © 2025 by @Aboling0 (https://github.com/Aboling0)
 
