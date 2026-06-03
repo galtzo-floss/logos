@@ -2174,8 +2174,76 @@ https://creativecommons.org/licenses/by-sa/2.5
 
 ### ruby-oauth
 
-See [oauth](#oauth).
-See [oauth2](#oauth2).
+[![ruby-oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️ruby-oauth-i]][🖼️ruby-oauth]
+
+[🖼️ruby-oauth-i]: https://logos.galtzo.com/assets/images/ruby-oauth/avatar-192px.svg
+[🖼️ruby-oauth]: https://github.com/ruby-oauth/
+
+```markdown
+[![ruby-oauth Logo by Chris Messina, CC BY-SA 3.0][🖼️ruby-oauth-i]][🖼️ruby-oauth]
+
+[🖼️ruby-oauth-i]: https://logos.galtzo.com/assets/images/ruby-oauth/avatar-192px.svg
+[🖼️ruby-oauth]: https://github.com/ruby-oauth/
+```
+
+- Pattern assets:
+  - logo.svg (resized to 500px)
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-original.svg (original, but not square aspect ratio)
+  - logo-square.svg (almost squared aspect ratio, 598 x 600 pixels, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oauth_logo.svg))
+  - logo-discovery.png
+  - logo-no-counter.png
+  - logo-shiny.jpg
+
+Logos are duplicated from [oauth](#oauth) to preserve the `<org>` asset path for the `ruby-oauth` GitHub org.
+
+http://wiki.oauth.net/Logo
+
+All versions are by Chris Messina, CC BY-SA 3.0
+
+https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+#### oauth2
+
+[![oauth2 Logo by Chris Messina, CC BY-SA 3.0][🖼️ruby-oauth2-i]][🖼️ruby-oauth2]
+
+[🖼️ruby-oauth2-i]: https://logos.galtzo.com/assets/images/ruby-oauth/oauth2/avatar-192px.svg
+[🖼️ruby-oauth2]: https://github.com/ruby-oauth/oauth2
+
+```markdown
+[![oauth2 Logo by Chris Messina, CC BY-SA 3.0][🖼️ruby-oauth2-i]][🖼️ruby-oauth2]
+
+[🖼️ruby-oauth2-i]: https://logos.galtzo.com/assets/images/ruby-oauth/oauth2/avatar-192px.svg
+[🖼️ruby-oauth2]: https://github.com/ruby-oauth/oauth2
+```
+
+- Pattern assets:
+  - logo.svg (resized to 500px)
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-original.svg (original, but not square aspect ratio)
+  - logo-square.svg (squared aspect ratio, 260px)
+  - avatar-124px.png
+
+Logos are duplicated from [oauth2](#oauth2) to preserve the `<org>/<project>` asset path for the `ruby-oauth/oauth2` GitHub project.
+
+Wasn't able to find an official source, except for `avatar-124px.png`, which appears on [oauth.net](https://oauth.net/images/oauth-2-sm.png).
+Assuming the copyright and license of the oauth2 logo are the same as the logos for OAuth.
+
+Assumed to be by Chris Messina, CC BY-SA 3.0
+
+https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 ### ruby-openid
 
@@ -2228,6 +2296,49 @@ NOTE: The Ruby OpenID logo integrates the stylized I+D of the official OpenID lo
 The following were the guidelines for OpenID logo as of June 8, 2025, as displayed on https://openid.net/policies/
 
 > Logo Guidelines: The OpenID logo is to be displayed in its entirety on either a solid light or dark background—avoid mid-tones or strongly colored backgrounds. The logo should not be displayed in parts, with color variations, or with other elements superimposed on top of the logo. The stylized I+D symbol should not be modified or distorted.
+
+#### ruby-openid
+
+NOTE: Project logos are the same as the org logos.
+
+[![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-project-i]][🖼️ruby-openid-project] [![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-project-blank-i]][🖼️ruby-openid-project]
+
+[🖼️ruby-openid-project-i]: https://logos.galtzo.com/assets/images/ruby-openid/ruby-openid/avatar-192px.svg
+[🖼️ruby-openid-project-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/ruby-openid/avatar-192px-blank.svg
+[🖼️ruby-openid-project]: https://github.com/ruby-openid/ruby-openid
+
+```markdown
+[![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-project-i]][🖼️ruby-openid-project] [![ruby-openid Logo by Aboling0, CC BY-SA 4.0][🖼️ruby-openid-project-blank-i]][🖼️ruby-openid-project]
+
+[🖼️ruby-openid-project-i]: https://logos.galtzo.com/assets/images/ruby-openid/ruby-openid/avatar-192px.svg
+[🖼️ruby-openid-project-blank-i]: https://logos.galtzo.com/assets/images/ruby-openid/ruby-openid/avatar-192px-blank.svg
+[🖼️ruby-openid-project]: https://github.com/ruby-openid/ruby-openid
+```
+
+- Pattern assets:
+  - logo.svg
+  - logo-blank.svg
+  - avatar-128px.svg
+  - avatar-128px-blank.svg
+  - avatar-192px.svg
+  - avatar-192px-blank.svg
+  - logo.png
+  - logo-blank.png
+  - avatar-128px.png
+  - avatar-128px-blank.png
+  - avatar-192px.png
+  - avatar-192px-blank.png
+
+- Extra assets:
+  - avatar-124px-blank.png
+  - square-515px.png
+  - square-1030px.png
+
+© 2025 by Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ### rubythems
 
