@@ -2342,18 +2342,52 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### rubythems
 
-#### rubythems
-
 [![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
 
-[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
-[🖼️rubythems]: https://github.com/rubythems/rubythems
+[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/avatar-192px.svg
+[🖼️rubythems]: https://github.com/rubythems/
 
 ```markdown
 [![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-i]][🖼️rubythems]
 
-[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
-[🖼️rubythems]: https://github.com/rubythems/rubythems
+[🖼️rubythems-i]: https://logos.galtzo.com/assets/images/rubythems/avatar-192px.svg
+[🖼️rubythems]: https://github.com/rubythems/
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-white-bg.svg
+  - avatar-128px-white-bg.svg
+  - avatar-192px-white-bg.svg
+  - logo-white-bg.png
+  - avatar-128px-white-bg.png
+  - avatar-192px-white-bg.png
+
+© 2025 by Peter Boling (https://github.com/pboling)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+#### rubythems
+
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-project-i]][🖼️rubythems-project]
+
+[🖼️rubythems-project-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
+[🖼️rubythems-project]: https://github.com/rubythems/rubythems
+
+```markdown
+[![rubythems Logo by Peter Boling, CC BY-SA 4.0][🖼️rubythems-project-i]][🖼️rubythems-project]
+
+[🖼️rubythems-project-i]: https://logos.galtzo.com/assets/images/rubythems/rubythems/avatar-192px.svg
+[🖼️rubythems-project]: https://github.com/rubythems/rubythems
 ```
 
 - Pattern assets:

@@ -218,7 +218,7 @@ begin
       "checksums/**/*.sha256",
       "checksums/**/*.sha512",
       "REEK",
-      "sig/**/*.rbs",
+      "sig/**/*.rbs"
     ]
   end
   Yard::Fence.install_rake_tasks!(:yard)
@@ -440,7 +440,7 @@ namespace :ci do
         else
           puts "GHA status: request failed (#{res.code})"
         end
-      rescue StandardError => e
+      rescue => e
         puts "GHA status: error #{e.class}: #{e.message}"
       end
     end
@@ -508,7 +508,6 @@ namespace :ci do
     end
 
     # No option provided: interactive menu with live GHA statuses via Threads (no Ractors)
-    require "thread"
 
     tty = $stdout.tty?
     # Build options: first the filtered short-code mapping, then dynamic files (no short codes)
@@ -579,7 +578,7 @@ namespace :ci do
           else
             [c, f, "fail #{res.code}"]
           end
-      rescue StandardError
+      rescue
         status_q << [c, f, "err"]
       end
     end
@@ -630,12 +629,12 @@ namespace :ci do
     # Cleanup: kill any still-running threads
     begin
       workers.each { |t| t.kill if t&.alive? }
-    rescue StandardError
+    rescue
       # ignore
     end
     begin
       input_thread.kill if input_thread&.alive?
-    rescue StandardError
+    rescue
       # ignore
     end
 
