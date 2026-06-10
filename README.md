@@ -1708,18 +1708,18 @@ Licensed under MIT
 
 https://github.com/carloscuesta/gitmoji/blob/master/LICENSE
 
-### kettle-rb
+### kettle-dev
 
-[![kettle-rb Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-rb-i]][🖼️kettle-rb]
+[![kettle-dev Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-dev-org-i]][🖼️kettle-dev-org]
 
-[🖼️kettle-rb-i]: https://logos.galtzo.com/assets/images/kettle-rb/avatar-192px.svg
-[🖼️kettle-rb]: https://github.com/kettle-rb/
+[🖼️kettle-dev-org-i]: https://logos.galtzo.com/assets/images/kettle-dev/avatar-192px.svg
+[🖼️kettle-dev-org]: https://github.com/kettle-dev/
 
 ```markdown
-[![kettle-rb Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-rb-i]][🖼️kettle-rb]
+[![kettle-dev Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-dev-org-i]][🖼️kettle-dev-org]
 
-[🖼️kettle-rb-i]: https://logos.galtzo.com/assets/images/kettle-rb/avatar-192px.svg
-[🖼️kettle-rb]: https://github.com/kettle-rb/
+[🖼️kettle-dev-org-i]: https://logos.galtzo.com/assets/images/kettle-dev/avatar-192px.svg
+[🖼️kettle-dev-org]: https://github.com/kettle-dev/
 ```
 
 - logo.svg
@@ -1739,14 +1739,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![kettle-dev Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-dev-i]][🖼️kettle-dev]
 
-[🖼️kettle-dev-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-dev/avatar-192px.svg
-[🖼️kettle-dev]: https://github.com/kettle-rb/kettle-dev
+[🖼️kettle-dev-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-dev/avatar-192px.svg
+[🖼️kettle-dev]: https://github.com/kettle-dev/kettle-dev
 
 ```markdown
 [![kettle-dev Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-dev-i]][🖼️kettle-dev]
 
-[🖼️kettle-dev-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-dev/avatar-192px.svg
-[🖼️kettle-dev]: https://github.com/kettle-rb/kettle-dev
+[🖼️kettle-dev-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-dev/avatar-192px.svg
+[🖼️kettle-dev]: https://github.com/kettle-dev/kettle-dev
 ```
 
 - logo.svg
@@ -1766,14 +1766,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![kettle-drift Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-drift-i]][🖼️kettle-drift]
 
-[🖼️kettle-drift-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-drift/avatar-192px.svg
-[🖼️kettle-drift]: https://github.com/kettle-rb/kettle-drift
+[🖼️kettle-drift-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-drift/avatar-192px.svg
+[🖼️kettle-drift]: https://github.com/kettle-dev/kettle-drift
 
 ```markdown
 [![kettle-drift Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-drift-i]][🖼️kettle-drift]
 
-[🖼️kettle-drift-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-drift/avatar-192px.svg
-[🖼️kettle-drift]: https://github.com/kettle-rb/kettle-drift
+[🖼️kettle-drift-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-drift/avatar-192px.svg
+[🖼️kettle-drift]: https://github.com/kettle-dev/kettle-drift
 ```
 
 - Pattern assets:
@@ -1797,14 +1797,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![kettle-jem-appraisals Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-appraisals-i]][🖼️kettle-jem-appraisals]
 
-[🖼️kettle-jem-appraisals-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem-appraisals/avatar-192px.svg
-[🖼️kettle-jem-appraisals]: https://github.com/kettle-rb/kettle-jem-appraisals
+[🖼️kettle-jem-appraisals-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-jem-appraisals/avatar-192px.svg
+[🖼️kettle-jem-appraisals]: https://github.com/kettle-dev/kettle-jem-appraisals
 
 ```markdown
 [![kettle-jem-appraisals Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-jem-appraisals-i]][🖼️kettle-jem-appraisals]
 
-[🖼️kettle-jem-appraisals-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-jem-appraisals/avatar-192px.svg
-[🖼️kettle-jem-appraisals]: https://github.com/kettle-rb/kettle-jem-appraisals
+[🖼️kettle-jem-appraisals-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-jem-appraisals/avatar-192px.svg
+[🖼️kettle-jem-appraisals]: https://github.com/kettle-dev/kettle-jem-appraisals
 ```
 
 - Pattern assets:
@@ -1828,14 +1828,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
 
-[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
-[🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
+[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-soup-cover/avatar-192px.svg
+[🖼️kettle-soup-cover]: https://github.com/kettle-dev/kettle-soup-cover
 
 ```markdown
 [![kettle-soup-cover Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-soup-cover-i]][🖼️kettle-soup-cover]
 
-[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-soup-cover/avatar-192px.svg
-[🖼️kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
+[🖼️kettle-soup-cover-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-soup-cover/avatar-192px.svg
+[🖼️kettle-soup-cover]: https://github.com/kettle-dev/kettle-soup-cover
 ```
 
 - logo.svg
@@ -1855,14 +1855,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
 
-[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
-[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
+[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-test/avatar-192px.svg
+[🖼️kettle-test]: https://github.com/kettle-dev/kettle-test
 
 ```markdown
 [![kettle-test Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-test-i]][🖼️kettle-test]
 
-[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-test/avatar-192px.svg
-[🖼️kettle-test]: https://github.com/kettle-rb/kettle-test
+[🖼️kettle-test-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-test/avatar-192px.svg
+[🖼️kettle-test]: https://github.com/kettle-dev/kettle-test
 ```
 
 - logo.svg
@@ -1882,14 +1882,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [![kettle-wash Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-wash-i]][🖼️kettle-wash]
 
-[🖼️kettle-wash-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-wash/avatar-192px.svg
-[🖼️kettle-wash]: https://github.com/kettle-rb/kettle-wash
+[🖼️kettle-wash-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-wash/avatar-192px.svg
+[🖼️kettle-wash]: https://github.com/kettle-dev/kettle-wash
 
 ```markdown
 [![kettle-wash Logo by Aboling0, CC BY-SA 4.0][🖼️kettle-wash-i]][🖼️kettle-wash]
 
-[🖼️kettle-wash-i]: https://logos.galtzo.com/assets/images/kettle-rb/kettle-wash/avatar-192px.svg
-[🖼️kettle-wash]: https://github.com/kettle-rb/kettle-wash
+[🖼️kettle-wash-i]: https://logos.galtzo.com/assets/images/kettle-dev/kettle-wash/avatar-192px.svg
+[🖼️kettle-wash]: https://github.com/kettle-dev/kettle-wash
 ```
 
 - logo.svg
