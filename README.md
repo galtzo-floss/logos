@@ -1976,23 +1976,32 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 ### omniauth
 
-[![omniauth Logo][🖼️omniauth-i]][🖼️omniauth]
+[![omniauth Logo, creator unknown, presumed MIT License][🖼️omniauth-i]][🖼️omniauth]
 
-[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.png
+[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.svg
 [🖼️omniauth]: https://github.com/omniauth/
 
 ```markdown
-[![omniauth Logo (presumed to be) by tomeara, (presumed to be) MIT License][🖼️omniauth-i]][🖼️omniauth]
+[![omniauth Logo, creator unknown, presumed MIT License][🖼️omniauth-i]][🖼️omniauth]
 
-[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.png
-[🖼️omniauth]: https://github.com/omniauth
+[🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.svg
+[🖼️omniauth]: https://github.com/omniauth/
 ```
 
-- avatar-128px.png
-- avatar-182px.png (resized to square)
-- avatar-192px.png
-- tall-158x182px.png
-- tall-316x364px.png
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - orig-avatar-128px.png
+  - orig-avatar-182px.png
+  - orig-avatar-192px.png
+  - orig-tall-158x182px.png
+  - orig-tall-316x364px.png
 
 Committed by https://github.com/tomeara to the old GH-Pages site for OmniAuth
 
