@@ -1996,6 +1996,12 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
   - avatar-128px.png
   - avatar-192px.png
 
+© 2025 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 - Extra assets:
   - orig-avatar-128px.png
   - orig-avatar-182px.png
@@ -2003,7 +2009,7 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
   - orig-tall-158x182px.png
   - orig-tall-316x364px.png
 
-Committed by https://github.com/tomeara to the old GH-Pages site for OmniAuth
+The "original" version, listed above as "Extra assets", was committed by https://github.com/tomeara to the old GH-Pages site for OmniAuth
 
 https://github.com/omniauth/omniauth/89a03ef889cd9994cdfa8a61d5195d76884510ec
 
