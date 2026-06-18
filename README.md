@@ -1976,13 +1976,13 @@ https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
 ### omniauth
 
-[![omniauth Logo, creator unknown, presumed MIT License][🖼️omniauth-i]][🖼️omniauth]
+[![omniauth Logo, Aboling0, CC BY-SA 4.0][🖼️omniauth-i]][🖼️omniauth]
 
 [🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.svg
 [🖼️omniauth]: https://github.com/omniauth/
 
 ```markdown
-[![omniauth Logo, creator unknown, presumed MIT License][🖼️omniauth-i]][🖼️omniauth]
+[![omniauth Logo, Aboling0, CC BY-SA 4.0][🖼️omniauth-i]][🖼️omniauth]
 
 [🖼️omniauth-i]: https://logos.galtzo.com/assets/images/omniauth/avatar-192px.svg
 [🖼️omniauth]: https://github.com/omniauth/
