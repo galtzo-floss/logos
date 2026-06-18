@@ -2495,6 +2495,42 @@ Licensed under CC BY-SA 4.0
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
+##### tree_haver
+
+[![tree_haver Logo by Aboling0, CC BY-SA 4.0][🖼️tree_haver-i]][🖼️tree_haver]
+
+[🖼️tree_haver-i]: https://logos.galtzo.com/assets/images/structuredmerge/structuredmerge-ruby/tree_haver/avatar-192px.svg
+[🖼️tree_haver]: https://github.com/structuredmerge/structuredmerge-ruby/tree/main/gems/tree_haver
+
+```markdown
+[![tree_haver Logo by Aboling0, CC BY-SA 4.0][🖼️tree_haver-i]][🖼️tree_haver]
+
+[🖼️tree_haver-i]: https://logos.galtzo.com/assets/images/structuredmerge/structuredmerge-ruby/tree_haver/avatar-192px.svg
+[🖼️tree_haver]: https://github.com/structuredmerge/structuredmerge-ruby/tree/main/gems/tree_haver
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-grad.svg
+  - avatar-128px-grad.svg
+  - avatar-192px-grad-.svg
+  - logo-grad.png
+  - avatar-128px-grad.png
+  - avatar-192px-grad.png
+
+© 2026 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ## 🤝 Contributing
 
 If you need some ideas of where to help check [issues][🤝gh-issues], or [PRs][🤝gh-pulls],
