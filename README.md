@@ -64,6 +64,38 @@ The logos at the very top of this readme are a good example of usage. This is th
 [🖼️logos]: https://logos.galtzo.com/
 ```
 
+### 9thBit
+
+[![9thBit Logo by Aboling0, CC BY-SA 4.0][🖼️9thbit-i]][🖼️9thbit]
+
+[🖼️9thbit-i]: https://logos.galtzo.com/assets/images/9thBit-llc/avatar-192px.svg
+[🖼️9thbit]: https://github.com/9thBit-llc
+
+```markdown
+[![9thBit Logo by Aboling0, CC BY-SA 4.0][🖼️9thbit-i]][🖼️9thbit]
+
+[🖼️9thbit-i]: https://logos.galtzo.com/assets/images/9thBit-llc/avatar-192px.svg
+[🖼️9thbit]: https://github.com/9thBit-llc
+```
+
+- Pattern assets:
+  - logo.svg
+  - avatar-128px.svg
+  - avatar-192px.svg
+  - logo.png
+  - avatar-128px.png
+  - avatar-192px.png
+
+- Extra assets:
+  - logo-full-size.svg
+  - logo-full-size.png
+
+© 2026 by @Aboling0 (https://github.com/Aboling0)
+
+Licensed under CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ### appraisal-rb
 
 [![appraisal-rb Logo by Aboling0, CC BY-SA 4.0][🖼️appraisal-rb-i]][🖼️appraisal-rb]
@@ -2656,7 +2688,7 @@ Thanks for RTFM. ☺️
 [🖇floss-funding-gem]: https://github.com/galtzo-floss/floss_funding
 [✉️discord-invite]: https://discord.gg/3qme4XHNKN
 [✉️discord-invite-img-ftb]: https://img.shields.io/discord/1373797679469170758?style=for-the-badge&logo=discord
-[✉️ruby-friends-img]: https://img.shields.io/badge/daily.dev-💎_Ruby_Friends-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white
+[✉️ruby-friends-img]: https://img.shields.io/badge/daily.dev-%F0%9F%92%8E_Ruby_Friends-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white
 [✉️ruby-friends]: https://app.daily.dev/squads/rubyfriends
 [🚂maint-blog]: http://www.railsbling.com/tags/logos
 [🚂maint-blog-img]: https://img.shields.io/badge/blog-railsbling-0093D0.svg?style=for-the-badge&logo=rubyonrails&logoColor=orange
@@ -2701,7 +2733,7 @@ Thanks for RTFM. ☺️
 [🪇conduct]: CODE_OF_CONDUCT.md
 [🪇conduct-img]: https://img.shields.io/badge/Contributor_Covenant-2.1-259D6C.svg
 [📌gitmoji]: https://gitmoji.dev
-[📌gitmoji-img]: https://img.shields.io/badge/gitmoji_commits-%20😜%20😍-34495e.svg?style=flat-square
+[📌gitmoji-img]: https://img.shields.io/badge/gitmoji_commits-%20%F0%9F%98%9C%20%F0%9F%98%8D-34495e.svg?style=flat-square
 [📄copyright-notice-explainer]: https://opensource.stackexchange.com/questions/5778/why-do-licenses-such-as-the-mit-license-specify-a-single-year
 [📄license]: LICENSE.txt
 [📄license-ref]: https://opensource.org/licenses/MIT

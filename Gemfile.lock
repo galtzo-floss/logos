@@ -40,7 +40,7 @@ GEM
       dry-inflector (~> 1.0)
       dry-logic (~> 1.4)
       zeitwerk (~> 2.6)
-    erb (6.0.6)
+    erb (6.0.7)
     json (2.21.2)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
@@ -71,7 +71,7 @@ GEM
       ast (~> 2.4.1)
       racc
     prism (1.9.0)
-    psych (5.4.0)
+    psych (5.5.0)
       date
       stringio
     racc (1.8.1)
@@ -161,9 +161,9 @@ GEM
     unicode-emoji (4.2.0)
     version_gem (1.1.15)
     yard (0.9.45)
-    yard-fence (0.9.7)
+    yard-fence (0.9.8)
       rdoc (>= 6.11, < 8)
-      version_gem (~> 1.1, >= 1.1.14)
+      version_gem (~> 1.1, >= 1.1.15)
       yard (~> 0.9, >= 0.9.37)
     yard-junk (0.1.0)
       benchmark
@@ -172,8 +172,8 @@ GEM
       yard
     yard-relative_markdown_links (0.6.0)
       nokogiri (>= 1.14.3, < 2)
-    yard-timekeeper (0.2.5)
-      version_gem (~> 1.1, >= 1.1.14)
+    yard-timekeeper (0.2.6)
+      version_gem (~> 1.1, >= 1.1.15)
     zeitwerk (2.8.3)
 
 PLATFORMS
@@ -204,4 +204,4 @@ DEPENDENCIES
   yard-timekeeper (~> 0.2, >= 0.2.1)
 
 BUNDLED WITH
-  4.0.17
+  4.0.19
